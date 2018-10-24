@@ -127,20 +127,20 @@
         <div data-thumb="images/slider-1.jpg" data-src="images/slider-1.jpg">
             <div class="camera_caption">
                 <div class="container">
-                    <h5 class=" wow fadeInUp animated">BIENVENIDOS</h5>
-                    <h3 class=" wow fadeInUp animated" data-wow-delay="0.5s">Desarrollo y Diseño Web</h3>
-                    <p class=" wow fadeInUp animated" data-wow-delay="0.8s">Our team of professionals will help you turn your dream home or flat into a reality fast. The Love Boat promises something for everyone. Now the world don't move to the beat of just one</p>
-                    <a class=" wow fadeInUp animated" data-wow-delay="1s" href="#">Read More</a>
+                    <h4 class=" wow fadeInUp animated">BIENVENIDOS</h4>
+                    <h1 class=" wow fadeInUp animated" data-wow-delay="0.5s">D.T.MOWED</h1>
+                    <h3 class=" wow fadeInUp animated" data-wow-delay="0.8s">Investigación Desarrollo Diseño y Aplicaciones Web</h3>
+                    <a class=" wow fadeInUp animated" data-wow-delay="1s" href="#">Acompñanos</a>
                 </div>
             </div>
         </div>
         <div data-thumb="images/slider-2.jpg" data-src="images/slider-2.jpg">
             <div class="camera_caption">
                 <div class="container">
-                    <h5 class=" wow fadeInUp animated">BIENVENIDOS</h5>
-                    <h3 class=" wow fadeInUp animated" data-wow-delay="0.5s">Desarrollo y Diseño Web</h3>
-                    <p class=" wow fadeInUp animated" data-wow-delay="0.8s">Our team of professionals will help you turn your dream home or flat into a reality fast. The Love Boat promises something for everyone. Now the world don't move to the beat of just one</p>
-                    <a class=" wow fadeInUp animated" data-wow-delay="1s" href="#">Read More</a>
+                    <h4 class=" wow fadeInUp animated">BIENVENIDOS</h4>
+                    <h1 class=" wow fadeInUp animated" data-wow-delay="0.5s">D.T.MOWED</h1>
+                    <h3 class=" wow fadeInUp animated" data-wow-delay="0.8s">Investigación Desarrollo Diseño y Aplicaciones Web</h3>
+                    <a class=" wow fadeInUp animated" data-wow-delay="1s" href="#">Acompñanos</a>
                 </div>
             </div>
         </div>
@@ -152,25 +152,25 @@
 <section class="professional_builder row">
     <div class="container">
         <div class="row builder_all">
+        <div class="col-md-3 col-sm-6 builder">
+                <i class="fa fa-thumbs-up" aria-hidden="true"></i>
+                <h4>Automatización</h4>
+                <p>La automatización ofrece varias ventajas: además del ahorro de tiempo, suele favorecer la precisión en el desarrollo de tareas.</p>
+            </div>
             <div class="col-md-3 col-sm-6 builder">
                 <i class="fa fa-home" aria-hidden="true"></i>
-                <h4>Professional Builde</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
+                <h4>Personalización </h4>
+                <p>Nos esforzamos por eliminar la sobrecarga de información o infoxicación, mediante la adaptación de los contenidos para cada tipo de clientes</p>
             </div>
             <div class="col-md-3 col-sm-6 builder">
                 <i class="fa fa-building" aria-hidden="true"></i>
-                <h4>We Deliver Quality</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
+                <h4>Optimización</h4>
+                <p>Buscamos la forma de optimizar los recursos de las empresas, mejorando los resultados, y contribuyendo directamente con la obtención de una mayor eficiencia y eficacia.</p>
             </div>
             <div class="col-md-3 col-sm-6 builder">
                 <i class="fa fa-clock-o" aria-hidden="true"></i>
-                <h4>Always On Time</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
-            </div>
-            <div class="col-md-3 col-sm-6 builder">
-                <i class="fa fa-thumbs-up" aria-hidden="true"></i>
-                <h4>We Are Pasionate</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
+                <h4>Actualización</h4>
+                <p>Estamos comprometidos con la actualización de conocimientos ya que es fundamental para optimizar la productividad y competitividad.</p>
             </div>
         </div>
     </div>
@@ -181,16 +181,16 @@
 <section class="about_us_area row">
     <div class="container">
         <div class="tittle wow fadeInUp">
-            <h2>ABOUT US</h2>
+            <h2>Sobre Nosostros</h2>
             <h4>Lorem Ipsum is simply dummy text of the printing and typesetting industry</h4>
         </div>
         <div class="row about_row">
             <div class="who_we_area col-md-7 col-sm-6">
                 <div class="subtittle">
-                    <h2>WHO WE ARE</h2>
+                    <h2>¿Quiénes Somos?</h2>
                 </div>
-                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
-                <a href="#" class="button_all">Contact Now</a>
+                <p>Somos una grupo de profesionales altamente capacitados con la certeza de trabajar incansablemente en la investigación y mejora contante de herramientas que faciliten usar, crear, administrar e intercambiar información, buscando primordialmente el ahorro de recursos físicos y la optimización de recursos económicos para cada uno de nuestros clientes y colaboradores.</p>
+                <h6 href="#" class="button_all">Contáctanos ahora</h6>
             </div>
             <div class="col-md-5 col-sm-6 about_client">
                 <img src="images/about_client.jpg" alt="">
