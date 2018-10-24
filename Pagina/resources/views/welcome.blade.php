@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Topbuilder Construction Template</title>
+    <title>DT MOWED</title>
 
     <!-- Favicon -->
     <link rel="icon" href="images/favicon.png" type="image/x-icon" />
@@ -37,9 +37,9 @@
 <section class="top_header_area">
     <div class="container">
         <ul class="nav navbar-nav top_nav">
-            <li><a href="#"><i class="fa fa-phone"></i>+1 (168) 314 5016</a></li>
-            <li><a href="#"><i class="fa fa-envelope-o"></i>info@thethemspro.com</a></li>
-            <li><a href="#"><i class="fa fa-clock-o"></i>Mon - Sat 12:00 - 20:00</a></li>
+            <li><a href="#"><i class="fa fa-phone"></i>0993384378</a></li>
+            <li><a href="#"><i class="fa fa-envelope-o"></i>info@dte-ecuador.org</a></li>
+            <li><a href="#"><i class="fa fa-clock-o"></i>Lunes - Viernes 8:00 - 17:00</a></li>
         </ul>
         <ul class="nav navbar-nav navbar-right social_nav">
             <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -84,27 +84,27 @@
             <div class="collapse navbar-collapse" id="min_navbar">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="dropdown submenu">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Home</a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Inicio</a>
                         <ul class="dropdown-menu">
-                            <li><a href="index.html">Home</a></li>
-                            <li><a href="index-2.html">Home 2</a></li>
+                            <li><a href="index.html">Inicio</a></li>
+                            <li><a href="index-2.html">Inicio</a></li>
                         </ul>
                     </li>
                     <li class="dropdown submenu">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us</a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Sobre Nosotros</a>
                         <ul class="dropdown-menu other_dropdwn">
-                            <li><a href="about.html">About Us</a></li>
-                            <li><a href="about-2.html">About Us-2</a></li>
+                            <li><a href="about.html">Sobre Nosotros</a></li>
+                            <li><a href="about-2.html">Sobre Nosotros</a></li>
                         </ul>
                     </li>
                     <li class="dropdown submenu">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services</a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Servicios</a>
                         <ul class="dropdown-menu other_dropdwn">
-                            <li><a href="services.html">Services</a></li>
-                            <li><a href="services-2.html">Services-2</a></li>
+                            <li><a href="services.html">Servicios</a></li>
+                            <li><a href="services-2.html">Servicios</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">Gallery</a></li>
+                    <li><a href="#">Galería</a></li>
                     <li class="dropdown submenu">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog</a>
                         <ul class="dropdown-menu">
@@ -112,7 +112,7 @@
                             <li><a href="blog-2.html">Blog-2</a></li>
                         </ul>
                     </li>
-                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="contact.html">Contactos</a></li>
                     <li><a href="#" class="nav_searchFrom"><i class="fa fa-search"></i></a></li>
                 </ul>
             </div><!-- /.navbar-collapse -->
@@ -127,8 +127,8 @@
         <div data-thumb="images/slider-1.jpg" data-src="images/slider-1.jpg">
             <div class="camera_caption">
                 <div class="container">
-                    <h5 class=" wow fadeInUp animated">Welcome to our</h5>
-                    <h3 class=" wow fadeInUp animated" data-wow-delay="0.5s">CLEAN, MODERN, MULTIPURPOSE THEME</h3>
+                    <h5 class=" wow fadeInUp animated">BIENVENIDOS</h5>
+                    <h3 class=" wow fadeInUp animated" data-wow-delay="0.5s">Desarrollo y Diseño Web</h3>
                     <p class=" wow fadeInUp animated" data-wow-delay="0.8s">Our team of professionals will help you turn your dream home or flat into a reality fast. The Love Boat promises something for everyone. Now the world don't move to the beat of just one</p>
                     <a class=" wow fadeInUp animated" data-wow-delay="1s" href="#">Read More</a>
                 </div>
@@ -137,8 +137,8 @@
         <div data-thumb="images/slider-2.jpg" data-src="images/slider-2.jpg">
             <div class="camera_caption">
                 <div class="container">
-                    <h5 class=" wow fadeInUp animated">Welcome to our</h5>
-                    <h3 class=" wow fadeInUp animated" data-wow-delay="0.5s">CLEAN ,MODERN, MULTIPURPOSE THEME</h3>
+                    <h5 class=" wow fadeInUp animated">BIENVENIDOS</h5>
+                    <h3 class=" wow fadeInUp animated" data-wow-delay="0.5s">Desarrollo y Diseño Web</h3>
                     <p class=" wow fadeInUp animated" data-wow-delay="0.8s">Our team of professionals will help you turn your dream home or flat into a reality fast. The Love Boat promises something for everyone. Now the world don't move to the beat of just one</p>
                     <a class=" wow fadeInUp animated" data-wow-delay="1s" href="#">Read More</a>
                 </div>
