@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="2752aabb-23f1-44f6-a104-8936a522335b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pagina/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pagina/public/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina/public/images/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pagina/public/images/footer-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina/public/images/footer-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pagina/resources/views/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina/resources/views/footer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pagina/resources/views/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina/resources/views/header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pagina/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pagina/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,15 +32,29 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
-          <entry key="html" value="1" />
-          <entry key="php" value="3" />
+          <entry key="html" value="3" />
+          <entry key="php" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Blade" value="3" />
+          <entry key="Blade" value="8" />
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="1" />
+          <entry key="HTML" value="3" />
+          <entry key="PHP" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="35" />
+          <entry key="php" value="301" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Blade" value="274" />
+          <entry key="HTML" value="35" />
+          <entry key="PHP" value="27" />
         </counts>
       </usages-collector>
     </session>
@@ -43,31 +62,39 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://G:/DTE/Publicidad/PUBLICIDAD DTE/Plantillas/DTE/TOPBuilder-colorlib/TOPBuilder/index.html">
+        <entry file="file://$PROJECT_DIR$/Pagina/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="6" selection-end-line="799" />
+            <state relative-caret-position="270">
+              <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pagina/resources/views/welcome.blade.php">
+        <entry file="file://$PROJECT_DIR$/Pagina/resources/views/services.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13581">
-              <caret line="780" column="19" lean-forward="true" selection-start-line="780" selection-start-column="19" selection-end-line="780" selection-end-column="19" />
+            <state relative-caret-position="54">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pagina/resources/views/header.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="69" lean-forward="true" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Pagina/resources/views/footer.blade.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pagina/resources/views/header.blade.php">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Pagina/resources/views/menu.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="52" column="48" selection-start-line="52" selection-start-column="48" selection-end-line="52" selection-end-column="48" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -83,8 +110,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Pagina/resources/views/welcome.blade.php" />
         <option value="$PROJECT_DIR$/Pagina/public/css/style.css" />
+        <option value="$PROJECT_DIR$/Pagina/resources/views/header.blade.php" />
+        <option value="$PROJECT_DIR$/Pagina/resources/views/footer.blade.php" />
+        <option value="$PROJECT_DIR$/Pagina/resources/views/welcome.blade.php" />
+        <option value="G:/DTE/Publicidad/PUBLICIDAD DTE/Plantillas/DTE/TOPBuilder-colorlib/TOPBuilder/about-2.html" />
+        <option value="$PROJECT_DIR$/Pagina/resources/views/about.blade.php" />
+        <option value="G:/DTE/Publicidad/PUBLICIDAD DTE/Plantillas/DTE/TOPBuilder-colorlib/TOPBuilder/services.html" />
+        <option value="$PROJECT_DIR$/Pagina/resources/views/services.blade.php" />
+        <option value="$PROJECT_DIR$/Pagina/routes/web.php" />
+        <option value="$PROJECT_DIR$/Pagina/resources/views/menu.blade.php" />
       </list>
     </option>
   </component>
@@ -217,6 +252,12 @@
               <item name="DTMOWED" type="b2602c69:ProjectViewProjectNode" />
               <item name="DTMOWED" type="462c0819:PsiDirectoryNode" />
               <item name="Pagina" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DTMOWED" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DTMOWED" type="462c0819:PsiDirectoryNode" />
+              <item name="Pagina" type="462c0819:PsiDirectoryNode" />
               <item name="storage" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -259,13 +300,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1795000" />
+    <option name="totallyTimeSpent" value="3987000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -307,18 +348,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pagina/resources/views/header.blade.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pagina/resources/views/welcome.blade.php">
+    <entry file="file://$PROJECT_DIR$/Pagina/resources/views/footer.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13581">
-          <caret line="780" column="19" lean-forward="true" selection-start-line="780" selection-start-column="19" selection-end-line="780" selection-end-column="19" />
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pagina/resources/views/footer.blade.php">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Pagina/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pagina/resources/views/about.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/DTE/Publicidad/PUBLICIDAD DTE/Plantillas/DTE/TOPBuilder-colorlib/TOPBuilder/about-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="226" column="14" lean-forward="true" selection-start-line="226" selection-start-column="14" selection-end-line="226" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pagina/resources/views/header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="69" lean-forward="true" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/DTE/Publicidad/PUBLICIDAD DTE/Plantillas/DTE/TOPBuilder-colorlib/TOPBuilder/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="185" selection-end-line="188" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pagina/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pagina/resources/views/services.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pagina/resources/views/menu.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="52" column="48" selection-start-line="52" selection-start-column="48" selection-end-line="52" selection-end-column="48" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
