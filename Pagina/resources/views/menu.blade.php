@@ -52,13 +52,7 @@
                     <li><a href="about">Sobre Nosotros</a></li>
                     <li><a href="services">Servicios</a></li>
                     <li><a href="#">Galería</a></li>
-                    <li class="dropdown submenu">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="blog.html">Blog</a></li>
-                            <li><a href="blog-2.html">Blog-2</a></li>
-                        </ul>
-                    </li>
+                    <li><a href="#">Blog</a></li>
                     <li><a href="contact.html">Contactos</a></li>
                     <li><a href="#" class="nav_searchFrom"><i class="fa fa-search"></i></a></li>
                 </ul>

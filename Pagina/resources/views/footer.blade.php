@@ -25,7 +25,7 @@
                 </ul>
             </div>
             <div class="col-md-3 col-sm-6 footer_about">
-                <h2>Twitter Feed</h2>
+                <h2>Redes socales</h2>
                 <a href="#" class="twitter">@colorlib: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.</a>
                 <a href="#" class="twitter">@colorlib: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.</a>
             </div>

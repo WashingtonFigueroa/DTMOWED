@@ -11,7 +11,7 @@
                 <div class="container">
                     <h4 class=" wow fadeInUp animated">BIENVENIDOS</h4>
                     <h1 class=" wow fadeInUp animated" data-wow-delay="0.5s">D.T.MOWED</h1>
-                    <h3 class=" wow fadeInUp animated" data-wow-delay="0.8s">Investigación Desarrollo Diseño y Aplicaciones Web</h3>
+                    <h3 class=" wow fadeInUp animated" data-wow-delay="0.8s">Investigación, Desarrollo, Diseño y Aplicaciones Web</h3>
                     <a class=" wow fadeInUp animated" data-wow-delay="1s" href="#">Acompñanos</a>
                 </div>
             </div>
@@ -21,7 +21,7 @@
                 <div class="container">
                     <h4 class=" wow fadeInUp animated">BIENVENIDOS</h4>
                     <h1 class=" wow fadeInUp animated" data-wow-delay="0.5s">D.T.MOWED</h1>
-                    <h3 class=" wow fadeInUp animated" data-wow-delay="0.8s">Investigación Desarrollo Diseño y Aplicaciones Web</h3>
+                    <h3 class=" wow fadeInUp animated" data-wow-delay="0.8s">Investigación, Desarrollo, Diseño y Aplicaciones Web</h3>
                     <a class=" wow fadeInUp animated" data-wow-delay="1s" href="#">Acompñanos</a>
                 </div>
             </div>
@@ -72,7 +72,7 @@
                     <h2>¿Quiénes Somos?</h2>
                 </div>
                 <p>Somos una grupo de profesionales altamente capacitados con la certeza de trabajar incansablemente en la investigación y mejora contante de herramientas que faciliten usar, crear, administrar e intercambiar información, buscando primordialmente el ahorro de recursos físicos y la optimización de recursos económicos para cada uno de nuestros clientes y colaboradores.</p>
-                <h6 href="#" class="button_all">Contáctanos ahora</h6>
+                <h6 href="#" class="button_all">Contáctanos</h6>
             </div>
             <div class="col-md-5 col-sm-6 about_client">
                 <img src="images/about_client.jpg" alt="">
