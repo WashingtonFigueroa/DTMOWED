@@ -35,12 +35,15 @@
     <div class="container">
         <div class="row builder_all">
         <div class="col-md-3 col-sm-6 builder">
-                <i class="fa fa-thumbs-up" aria-hidden="true"></i>
+                <!-- <i class="fa fa-thumbs-up" aria-hidden="true"></i> -->
+<img src="images/carrito.gif" alt="">
                 <h4>Automatización</h4>
                 <p>La automatización ofrece varias ventajas: además del ahorro de tiempo, suele favorecer la precisión en el desarrollo de tareas.</p>
             </div>
             <div class="col-md-3 col-sm-6 builder">
-                <i class="fa fa-home" aria-hidden="true"></i>
+              <!--  <i class="fa fa-home" aria-hidden="true"></i>--> 
+
+                <iframe width="300" height="250" src="https://www.youtube.com/embed/ZyhjcYdau-Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <h4>Personalización </h4>
                 <p>Nos esforzamos por eliminar la sobrecarga de información o infoxicación, mediante la adaptación de los contenidos para cada tipo de clientes</p>
             </div>
