@@ -50,7 +50,7 @@ h3 {
 LINK STYLE
 ------------------------------------------*/
 a {
-    color           : #fcbb3c;
+    color           : #1E90FF;
     text-decoration : none;
     transition      : all 0.3s ease 0s;
 }
@@ -67,7 +67,7 @@ a:active {
 
 a:hover,
 a:focus {
-    color           : #e89b04;
+    color           : #1E90FF;
     text-decoration : none !important;
 }
 
@@ -89,7 +89,7 @@ GLOBAL BUTTON STYLE
 /*btn-primary*/
 .btn-primary {
     color: #fff;
-    background-color: #fcbb3c;
+    background-color: #1E90FF;
     border-color: #fba90a;
 }
 
@@ -99,7 +99,7 @@ GLOBAL BUTTON STYLE
 .btn-primary:active, 
 .btn-primary.active, 
 .open>.dropdown-toggle.btn-primary {
-	color: #e89b04;
+	color: #1E90FF;
 	background: transparent;
 	border: 2px solid #e0e0e0;
 }
@@ -141,10 +141,10 @@ GLOBAL BUTTON STYLE
 }
 
 .btn-link {
-    color: #fcbb3c;
+    color: #1E90FF;
 }
 .btn-link:hover{
-    color: #e89b04;
+    color: #1E90FF;
 }
 
 .btn:focus, 
@@ -259,7 +259,7 @@ blockquote::before {
     top: -14px;
     left: 26px;
     font-size: 36px;
-    color: #fcbb3c;
+    color: #1E90FF;
 }
 
 /* ----------------------------------------------------------------
@@ -273,7 +273,7 @@ Form Style
 }
 
 .form-control:focus {
-    border-color: #fcbb3c;
+    border-color: #1E90FF;
     box-shadow: none;
 }
 
@@ -424,7 +424,7 @@ NAVIGATION
 
 .navbar-default .navbar-nav>li>a:hover, 
 .navbar-default .navbar-nav>li>a:focus {
-    color: #fcbb3c;
+    color: #1E90FF;
     background-color: transparent;
 }
 
@@ -434,7 +434,7 @@ NAVIGATION
 .navbar-default .navbar-nav>.open>a, 
 .navbar-default .navbar-nav>.open>a:hover, 
 .navbar-default .navbar-nav>.open>a:focus {
-    color: #fcbb3c;
+    color: #1E90FF;
     background-color: transparent;
 }
 
@@ -453,7 +453,7 @@ NAVIGATION
 
 .navbar-default .navbar-toggle:hover, 
 .navbar-default .navbar-toggle:focus {
-    background-color: #fcbb3c;
+    background-color: #1E90FF;
     border: 2px solid transparent;
 }
 
@@ -526,7 +526,7 @@ SERVICE WRAPPER
 }
 
 .service-wrapper .media-heading a:hover{
-    color: #fcbb3c;
+    color: #1E90FF;
 }
 
 
@@ -627,7 +627,7 @@ ADVANTAGES WRAPPER
 .nav-tabs > li.active > a:hover, 
 .nav-tabs > li.active > a:focus {
     color: #ffffff;
-    background: #fcbb3c;
+    background: #1E90FF;
     border: 0;
 }
 
@@ -784,8 +784,8 @@ TESTIMONIAL WRAPPER
     width: 22px;
     height: 7px;
     margin: 0 5px 0 0;
-    background-color: #fcbb3c;
-    border: 1px solid #fcbb3c;
+    background-color: #1E90FF;
+    border: 1px solid #1E90FF;
 }
 
 .testimonial-wrapper .carousel-indicators li {
@@ -876,7 +876,7 @@ SUBSCRIPTION PLANS WRAPPER
     line-height: 30px;
     font-weight: 700;
     margin: 30px 0;
-    color: #fcbb3c;
+    color: #1E90FF;
 }
 .price small {
     font-size: 14px;
@@ -934,7 +934,7 @@ FOOTER WIDGET WRAPPER
 .subcsribe-text::after{
     content: "";
     position: absolute;
-    background: #fcbb3c;
+    background: #1E90FF;
     width: 94px;
     height: 2px;
     left: 0;
@@ -983,7 +983,7 @@ FOOTER WIDGET WRAPPER
     color: #7a7e83;
 }
 .footer-widget ul li a:hover{
-    color: #e89b04;
+    color: #1E90FF;
 }
 
 
@@ -1233,7 +1233,7 @@ ul.joblist-link li a{
     border-bottom: 2px solid #e3e3e3;
 }
 ul.joblist-link li a:hover{
-    color: #e89b04;
+    color: #1E90FF;
 }
 
 .joblist-btn {
@@ -1402,7 +1402,7 @@ BLOG PAGE
 .blog-post-wrapper .the-category a,
 .blog-post-wrapper .entry-meta ul li a:hover,
 .blog-post-wrapper .entry-title a:hover{
-    color: #fcbb3c !important;
+    color: #1E90FF !important;
 }
 
 .blog-post-wrapper .post-thumbnail {
@@ -1420,7 +1420,7 @@ BLOG PAGE
 
 #blog-post-carousel .carousel-control:hover, 
 #blog-post-carousel .carousel-control:focus {
-    color: #fcbb3c;
+    color: #1E90FF;
     filter: alpha(opacity=100);
     opacity: 1;
 }
@@ -1542,7 +1542,7 @@ SINGLE BLOG
 .pagination>.active>span:hover, 
 .pagination>.active>a:focus, 
 .pagination>.active>span:focus {
-    color: #fcbb3c;
+    color: #1E90FF;
     background-color: transparent;
     border-color: transparent;
 }
@@ -1551,7 +1551,7 @@ SINGLE BLOG
 .pagination>li>span:hover, 
 .pagination>li>a:focus, 
 .pagination>li>span:focus {
-    color: #fcbb3c;
+    color: #1E90FF;
     background-color: transparent;
     border-color: transparent;
 }
@@ -1585,9 +1585,9 @@ SINGLE BLOG
 .pagination > li:first-child > span:hover,
 .pagination > li:last-child > a:hover, 
 .pagination > li:last-child > span:hover {
-    color: #fcbb3c;
+    color: #1E90FF;
     background-color: transparent;
-    border-color: #fcbb3c;
+    border-color: #1E90FF;
 }
 
 .pagination-wrap .counter {
@@ -1607,7 +1607,7 @@ SINGLE BLOG
 }
 .pager li>a:hover, 
 .pager li>a:focus {
-    background-color: #fcbb3c;
+    background-color: #1E90FF;
     color: #fff;
     border: 2px solid transparent;
 }
@@ -1663,7 +1663,7 @@ SINGLE BLOG
     color: #6d6d6d;
 }
 .sidebar-wrapper .widget ul li a:hover {
-    color: #fcbb3c;
+    color: #1E90FF;
 }
 
 .sidebar-wrapper .widget.widget_search{
@@ -1676,7 +1676,7 @@ SINGLE BLOG
     color: #e3e3e3;
 }
 .widget_search form button:hover i{
-    color: #fcbb3c;
+    color: #1E90FF;
 }
 .widget_search form button:focus {
     outline: none;
@@ -1782,7 +1782,7 @@ PORTFOLIO PAGE
 }
 #filter li a:hover,
 #filter li a.active {
-    background: #fcbb3c;
+    background: #1E90FF;
     border: 2px solid transparent;
     color: #fff;
 }
@@ -1854,7 +1854,7 @@ PORTFOLIO PAGE
 }
 .portfolio-links>a:hover {
     background: rgba(255,255,255,.3);
-    color: #fcbb3c;
+    color: #1E90FF;
     border: 2px solid transparent;
 }
 
@@ -1905,7 +1905,7 @@ PORTFOLIO PAGE
 
 .owl-theme .owl-controls .owl-page.active span, 
 .owl-theme .owl-controls.clickable .owl-page:hover span {
-    background: #fcbb3c;
+    background: #1E90FF;
 }
 
 
@@ -1936,7 +1936,7 @@ CONTACT US PAGE
     display: block;
 }
 .mini-contact a:hover {
-    color: #fcbb3c;
+    color: #1E90FF;
 }
 
 .map-wrapper {
@@ -1997,7 +1997,7 @@ Job Page
     font-family: FontAwesome;
     content: "\f192";
     font-size: 10px;
-    color: #fcbb3c;
+    color: #1E90FF;
     position: absolute;
     top: 3.5px;
     left: 0;
@@ -2071,7 +2071,7 @@ Accordion/Collaps Style
     content: "\f107";
     font-size: 20px;
     font-weight: 700;
-    color: #e89b04;
+    color: #1E90FF;
     width: 40px;
     height: 37px;
     line-height: 37px;
@@ -2106,7 +2106,7 @@ Typography Page
     font-size: 42px;
 }
 .typography-page-wrapper ul li:before {
-    color :#fcbb3c;;
+    color :#1E90FF;;
 }
 
 .typography-page-tab {
@@ -2158,7 +2158,7 @@ Offcanvas Style
 }
 #off-canvas-close-btn:hover,
 #off-canvas-close-btn:focus{
-	color: #fcbb3c;
+	color: #1E90FF;
 	outline: none;
 }
 .offcanvas-menu  h3{
@@ -2195,7 +2195,7 @@ Offcanvas Style
 .offcanvas-menu ul li.active a {
     background : rgba(0, 0, 0, 0.2);
     box-shadow : inset 0 -1px rgba(0, 0, 0, 0);
-    color      : #fcbb3c;
+    color      : #1E90FF;
 }
 
 
@@ -2247,14 +2247,14 @@ DROPDOWN CSS
 .nav.navbar-nav li ul.dropdown-menu li a:hover,
 .nav.navbar-nav li ul.dropdown-menu li a:focus{
     background  : transparent; 
-    color       : #fcbb3c
+    color       : #1E90FF
   }
 
 
 .dropdown-menu>.active>a, 
 .dropdown-menu>.active>a:hover, 
 .dropdown-menu>.active>a:focus {
-    color: #fcbb3c !important;
+    color: #1E90FF !important;
     background-color: transparent;
 
 }
@@ -2440,7 +2440,7 @@ li.dropdown.menu-animating > .submenu-sub-wrapper {
 
 .hero-slide .carousel-caption .phone {
     font-size               : 30px;
-    color                   : #fcbb3c;
+    color                   : #1E90FF;
     -webkit-animation-delay : 100ms;
     animation-delay         : 100ms;
     }

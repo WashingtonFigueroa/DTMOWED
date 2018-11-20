@@ -1,48 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-
-	<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-
-    <title>DT MOWED</title>
-    <!-- Web Fonts -->
-	<link href='http://fonts.googleapis.com/css?family=Roboto:400,900,700,500,300' rel='stylesheet' type='text/css'>
-    <!-- Flaticon CSS -->
-    <link href="estilos/fonts/flaticon/flaticon.css" rel="stylesheet">
-    <!-- font-awesome CSS -->
-    <link href="estilos/css/font-awesome.min.css" rel="stylesheet">
-    <!-- owl.carousel CSS -->
-    <link href="estilos/owl-carousel/owl.carousel.css" rel="stylesheet">
-    <link href="estilos/owl-carousel/owl.theme.css" rel="stylesheet">
-    <!-- Offcanvas CSS -->
-    <link href="estilos/css/hippo-off-canvas.css" rel="stylesheet">
-    <!-- animate CSS -->
-    <link href="estilos/css/animate.css" rel="stylesheet">
-	<!-- REVOLUTION BANNER CSS SETTINGS -->
-	<link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css" media="screen" />
-    <!-- Bootstrap Core CSS -->
-    <link href="estilos/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Custom CSS -->
-    <link href="estilos/css/style.css" rel="stylesheet">
-    <!-- Responsive CSS -->
-    <link href="estilos/css/responsive.css" rel="stylesheet">
-
-    <script src="estilos/js/vendor/modernizr-2.8.1.min.js"></script>
-    <!-- HTML5 Shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-	    <script src="estilos/js/vendor/html5shim.js"></script>
-	    <script src="estilos/js/vendor/respond.min.js"></script>
-    <![endif]-->
-	</head>
-
-
+	@include ('component.head') 
 	<body>
-
 	  <div id="st-container" class="st-container">
 	    <div class="st-pusher">
 	      <div class="st-content">
@@ -64,7 +23,6 @@
 						</div><!-- /.row -->
 					</div><!-- /.container-fluid -->
 				</section>
-
 
 				<div class="container">
 					<div class="content-wrapper">
@@ -251,46 +209,10 @@
 						</section>
 					</div><!-- /.content-wrapper -->
 				</div><!-- /.container -->
-
 				@include ('component.footer')
-
 	        </div> <!-- .st-content-inner -->
 	      </div> <!-- .st-content -->
 	    </div> <!-- .st-pusher -->
-
-
-		<!-- Preloader -->
-		<div id="preloader">
-			<div id="status">
-				<div class="status-mes"></div>
-			</div>
-		</div>
-
-
-	    <!-- jQuery -->
-	    <script src="estilos/js/jquery.js"></script>
-	    <!-- Bootstrap Core JavaScript -->
-	    <script src="estilos/js/bootstrap.min.js"></script>
-	    <!-- wow.min.js -->
-	    <script src="estilos/js/wow.min.js"></script>
-		<!-- jQuery REVOLUTION Slider  -->
-		<script type="text/javascript" src="estilos/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
-		<script type="text/javascript" src="estilos/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-	    <!-- owl-carousel -->
-	    <script src="estilos/owl-carousel/owl.carousel.min.js"></script>
-	    <!-- smoothscroll -->
-	    <script src="estilos/js/smoothscroll.js"></script>
-		<!-- Offcanvas Menu -->
-		<script src="estilos/js/hippo-offcanvas.js"></script>
-		<!-- easypiechart -->
-		<script src="estilos/js/jquery.easypiechart.min.js"></script>
-	    <!-- Scrolling Nav JavaScript -->
-	    <script src="estilos/js/jquery.easing.min.js"></script>
-		<!-- Magnific-popup -->
-		<script src="estilos/js/jquery.magnific-popup.min.js"></script>
-		<!-- Shuffle.min js -->
-		<script src="estilos/js/jquery.shuffle.min.js"></script>
-	    <!-- Custom Script -->
-	    <script src="estilos/js/scripts.js"></script>
+		  @include ('component.footerjs')
 	</body>
 </html>
