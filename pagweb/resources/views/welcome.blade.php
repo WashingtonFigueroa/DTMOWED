@@ -19,20 +19,16 @@
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner" role="listbox">
                         <div class="item active">
-                            <img src="estilos/img/slider-bg1.png" alt="Hero Slide">
+                            <img src="estilos/img/slider-1.jpg" alt="Hero Slide">
                             <!--Slide Image-->
 
                             <div class="container">
                                 <div class="carousel-caption">
-                                    <small class="animated fadeIn">CALL US TODAY</small>
-                                    <div class="phone animated lightSpeedIn">1-800-1234-567</div>
-                                    <h1 class="animated lightSpeedIn">Title of Your Product <br>Service or Event</h1>
+                                    <div class="phone animated lightSpeedIn">DT MOWED</div>
+                                    <h1 class="animated lightSpeedIn">Desarrolladores Tecnológicos</h1>
 
-                                    <p class="lead animated lightSpeedIn">It's a tag line, where you can write a key point of your idea.
-                                        It is a long
-                                        established fact that a reader will be distracted.</p>
+                                    <p class="lead animated lightSpeedIn">Programamos tu vida.</p>
 
-                                    <a class="btn btn-primary animated lightSpeedIn" href="#">Work With Us Today</a>
                                 </div>
                                 <!--.carousel-caption-->
                             </div>
@@ -41,18 +37,32 @@
                         <!--.item-->
 
                         <div class="item">
-                            <img src="estilos/img/slider-bg2.png" alt="Hero Slide">
+                            <img src="estilos/img/slider-1.jpg" alt="Hero Slide">
                             <!--Slide Image-->
 
                             <div class="container">
                                 <div class="carousel-caption">
 
-                                    <h1 class="animated bounceIn">Title of Your Product <br>Service or Event</h1>
+                                    <h1 class="animated bounceIn">Servicio de Asesoría</h1>
 
-                                    <p class="lead animated bounceIn">It's a tag line, where you can write a key point of your idea. It
-                                        is a long
-                                        established fact that a reader will be distracted.</p>
-                                    <a class="btn btn-primary animated bounceIn" href="#">Work With Us Today</a>
+                                    <p class="lead animated bounceIn">Informática y Mercadotecnia.</p>
+                                </div>
+                                <!--.carousel-caption-->
+                            </div>
+                            <!--.container-->
+                        </div>
+                        <!--.item-->
+
+                        <div class="item">
+                            <img src="estilos/img/slider-1.jpg" alt="Hero Slide">
+                            <!--Slide Image-->
+
+                            <div class="container">
+                                <div class="carousel-caption">
+
+                                    <h1 class="animated bounceIn">Desarrollo y Venta</h1>
+
+                                    <p class="lead animated bounceIn"> de Software</p>
                                 </div>
                                 <!--.carousel-caption-->
                             </div>
@@ -81,16 +91,21 @@
                         <section class="intro-wrapper"> 
                             <div class="row"> 
                                 <div class="col-lg-6 col-md-8">
-                                    <h2 class="wow fadeInDown">Welcome to Primex</h2>
-                                    <p class="wow fadeInDown">Objectively enable leading-edge infrastructures whereas tactical imperatives. Enthusiastically disintermediate adaptive systems.</p>
+                                    <h2 class="wow fadeInDown">Bienvenido a DT MOWED</h2>
+                                    <p class="wow fadeInDown">Desarrolladores Tecnológicos</p>
 
-                                    <h3 class="wow fadeInDown">About Us</h3>
-                                    <p class="wow fadeInDown">Assertively target turnkey technologies whereas covalent ROI. Distinctively grow viral mindshare rather than collaborative meta-services. Credibly initiate performance based internal or "organic" sources with <a href="#">performance based</a> infrastructures competently.</p>
+                                    <h3 class="wow fadeInDown">Sobre nuestra compañía</h3>
+                                    <p class="wow fadeInDown">Se forma a finales del 2014, con un equipo de profesionales del área de desarrollo de sistemas y sitios web. Actualmente, contamos con más de 3 años de experiencia, tiempo en el cual nos hemos convertido en una reconocida empresa en el medio; Nuestra filosofía única nos ha convertido en la mejor opción para clientes de todo tipo que buscan relaciones a largo plazo y les gusta hacer bien las cosas.</p>
 
-                                    <h3 class="wow fadeInDown">Our Mission</h3>
-                                    <p class="wow fadeInDown">Assertively target turnkey technologies whereas covalent ROI. Distinctively grow viral mindshare rather than collaborative meta-services. Credibly initiate performance based internal or "organic" sources with performance based infrastructures. Competently.</p>
+                                    <ul class="check-square">
+                                        <li>Planificación y análisis de Sistemas Informaticos.</li>
+                                        <li>Desarrollo y venta de software.</li>
+                                        <li>Tutorías Online.</li>
+                                        <li>Mercadotecnia.</li>
+                                        <li>Tienda de artículos.</li>
+                                    </ul> </br>
 
-                                    <a class="btn btn-primary wow fadeInDown" href="#" role="button">Read More</a>
+                                    <a class="btn btn-primary wow fadeInDown" href="about-us" role="button">Leer más</a>
                                 </div>
 
                                 <div class="col-lg-6 col-md-4"></div>
@@ -99,7 +114,7 @@
 
 
                         <section class="service-wrapper">
-                            <h2 class="section-title wow fadeInDown">Our Services</h2>
+                            <h2 class="section-title wow fadeInDown">Nuestros Servicios </h2>
                             <div class="row">
                               <div class="col-md-6 wow fadeInRight">
                                 <div class="media">
@@ -107,8 +122,8 @@
                                     <span class="icon bg1 flaticon-increasing5"></span>
                                   </a>
                                   <div class="media-body">
-                                    <h3 class="media-heading"><a href="#">Global business</a></h3>
-                                    <p>Assertively target turnkey technologies whereas covalent ROI. Distinctively grow viral mindshare rather than collaborative meta-services redibly initiate.</p>
+                                    <h3 class="media-heading"><a href="#">Desarrollo de Sistemas</a></h3>
+                                    <p>Creamos soluciones web para su empresa: Inventario, Facturación, Planillas, Contabilidad y más...</p>
                                   </div> <!-- /.media-body -->
                                 </div> <!-- /.media -->
                               </div> <!-- /.col-md-6 -->
@@ -119,8 +134,8 @@
                                     <span class="icon bg2 flaticon-syncing"></span>
                                   </a>
                                   <div class="media-body">
-                                    <h3 class="media-heading"><a href="#">Fast online support</a></h3>
-                                    <p>Assertively target turnkey technologies whereas covalent ROI. Distinctively grow viral mindshare rather than collaborative meta-services redibly initiate.</p>
+                                    <h3 class="media-heading"><a href="#">Diseño Web</a></h3>
+                                    <p>Sitios Web, con gestores de contenido, Tiendas en linea, Facebook Apps, 100% responsive.</p>
                                   </div> <!-- /.media-body -->
                                 </div> <!-- /.media -->
                               </div> <!-- /.col-md-6 -->
@@ -131,8 +146,8 @@
                                     <span class="icon bg3 flaticon-file24"></span>
                                   </a>
                                   <div class="media-body">
-                                    <h3 class="media-heading"><a href="#">Pro Services &amp; Advice</a></h3>
-                                    <p>Assertively target turnkey technologies whereas covalent ROI. Distinctively grow viral mindshare rather than collaborative meta-services redibly initiate.</p>
+                                    <h3 class="media-heading"><a href="#">Mercadotecnia</a></h3>
+                                    <p>Despliega tu campaña de Marketing Digital, a una población segmentada en el momento oportuno.</p>
                                   </div> <!-- /.media-body -->
                                 </div> <!-- /.media -->
                               </div> <!-- /.col-md-6 -->
@@ -143,8 +158,8 @@
                                     <span class="icon bg4 flaticon-royalty"></span>
                                   </a>
                                   <div class="media-body">
-                                    <h3 class="media-heading"><a href="#">Fresh business ideas</a></h3>
-                                    <p>Assertively target turnkey technologies whereas covalent ROI. Distinctively grow viral mindshare rather than collaborative meta-services redibly initiate.</p>
+                                    <h3 class="media-heading"><a href="#">Artículos</a></h3>
+                                    <p>Los mismos productos, pero al mejor precio con las mejores garantias.</p>
                                   </div> <!-- /.media-body -->
                                 </div> <!-- /.media -->
                               </div> <!-- /.col-md-6 -->
