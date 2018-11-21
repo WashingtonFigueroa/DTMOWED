@@ -166,7 +166,7 @@
                             </div> <!-- /.row -->
                         </section>
 
-                        <section class="advantages-wrapper">
+                        {{-- <section class="advantages-wrapper">
                             <h2 class="section-title wow fadeInDown">Our advantages</h2>
                             <div class="css-tab text-center">
                               <!-- Nav tabs -->
@@ -269,10 +269,10 @@
                                 </div><!-- /.tab-pane -->
                               </div><!-- /.tab-content -->
                             </div><!-- /.css-tab -->
-                        </section>
+                        </section> --}}
 
                         <section class="handover-wrapper">
-                            <h2 class="section-title wow fadeInDown">Our Handover Project</h2>
+                            <h2 class="section-title wow fadeInDown">Algunos de nuestros mejores servicios</h2>
                             <div id="css-handover-carousel" class="carousel slide" data-ride="carousel">
                               <!-- Indicators -->
                               <ol class="carousel-indicators">
@@ -287,25 +287,18 @@
                                     <div class="row">
                                         <div class="col-md-6 col-md-push-6 wow fadeRight">
                                             <div class="handover-work-thumb">
-                                                <img src="estilos/img/pr2.png" alt="">
+                                                <img src="estilos/img/service1.jpg" alt="">
                                             </div><!-- /.client-thumb -->
                                         </div><!-- /.col-md-6 -->
                                         
                                         <div class="col-md-6 col-md-pull-6 wow fadeInLeft">
                                             <div class="handover-project">
-                                                <h3>Proactively productivate e-business e-commerce</h3>
-                                                <p>Efficiently communicate installed base leadership skills with extensible testing procedures. Enthusiastically evolve leading-edge scenarios.</p>
+                                                <h3>WEB COATL FACT</h3>
+                                                <p>Sistema de Facturación Electrónica: Contamos con la solución más completa y sencilla de emitir, autorizar y distribuir tus comprobantes electrónicos.</p>
 
-                                                <ul class="check-square">
-                                                    <li>Globally exploit interoperable infrastructures</li>
-                                                    <li>Collaboratively initiate customer directed manufactured</li>
-                                                    <li>Competently whiteboard backend information rather</li>
-                                                    <li>Efficiently empower next-generation sources</li>
-                                                    <li>Uniquely expedite sticky e-markets via orthogonal</li>
-                                                    <li>Professionally strategize orthogonal core competency</li>
-                                                </ul>
+                                                <h4>PYMES / ENTERPRISE</h4>
 
-                                                <a class="btn btn-primary" href="portfolio-single.html" role="button">Read More</a>
+                                                <a class="btn btn-primary" href="#" role="button">Leer más</a>
                                             </div><!-- /.handover-project -->
                                         </div><!-- /.col-md-6 -->
                                     </div><!-- /.row -->
@@ -314,25 +307,18 @@
                                     <div class="row">
                                         <div class="col-md-6 col-md-push-6">
                                             <div class="handover-work-thumb">
-                                                <img src="estilos/img/pr2.png" alt="">
+                                                <img src="estilos/img/service2.jpg" alt="">
                                             </div><!-- /.client-thumb -->
                                         </div><!-- /.col-md-6 -->
                                         
                                         <div class="col-md-6 col-md-pull-6">
                                             <div class="handover-project">
-                                                <h3>Proactively productivate e-business e-commerce</h3>
-                                                <p>Efficiently communicate installed base leadership skills with extensible testing procedures. Enthusiastically evolve leading-edge scenarios.</p>
+                                                <h3>APP COATL FACT</h3>
+                                                <p>App de Facturación Electrónica: Permitire crear facturas en formato PDF y enviarlas a tus clientes por e-mail, directamente desde tu Smartphone o Tablet.</p>
 
-                                                <ul class="check-square">
-                                                    <li>Globally exploit interoperable infrastructures</li>
-                                                    <li>Collaboratively initiate customer directed manufactured</li>
-                                                    <li>Competently whiteboard backend information rather</li>
-                                                    <li>Efficiently empower next-generation sources</li>
-                                                    <li>Uniquely expedite sticky e-markets via orthogonal</li>
-                                                    <li>Professionally strategize orthogonal core competency</li>
-                                                </ul>
+                                                <h4>AUTÓNOMO / PYMES</h4>
 
-                                                <a class="btn btn-primary" href="portfolio-single.html" role="button">Read More</a>
+                                                <a class="btn btn-primary" href="#" role="button">Leer más</a>
                                             </div><!-- /.handover-project -->
                                         </div><!-- /.col-md-6 -->   
                                     </div><!-- /.row -->
@@ -341,25 +327,16 @@
                                     <div class="row">
                                         <div class="col-md-6 col-md-push-6">
                                             <div class="handover-work-thumb">
-                                                <img src="estilos/img/pr2.png" alt="">
+                                                <img src="estilos/img/service3.jpg" alt="">
                                             </div><!-- /.client-thumb -->
                                         </div><!-- /.col-md-6 -->
                                         
                                         <div class="col-md-6 col-md-pull-6">
                                             <div class="handover-project">
-                                                <h3>Proactively productivate e-business e-commerce</h3>
-                                                <p>Efficiently communicate installed base leadership skills with extensible testing procedures. Enthusiastically evolve leading-edge scenarios.</p>
+                                                <h3>WEB GRIFTEACH</h3>
+                                                <p>Sistema de Administarción para las JAAP: Gestión integral para las Comunidades, permitiendo a los usuarios gestionar y administrar fácilmente el trabajo diario en una comunidad.</p>
 
-                                                <ul class="check-square">
-                                                    <li>Globally exploit interoperable infrastructures</li>
-                                                    <li>Collaboratively initiate customer directed manufactured</li>
-                                                    <li>Competently whiteboard backend information rather</li>
-                                                    <li>Efficiently empower next-generation sources</li>
-                                                    <li>Uniquely expedite sticky e-markets via orthogonal</li>
-                                                    <li>Professionally strategize orthogonal core competency</li>
-                                                </ul>
-
-                                                <a class="btn btn-primary" href="portfolio-single.html" role="button">Read More</a>
+                                                <a class="btn btn-primary" href="#" role="button">Leer más</a>
                                             </div><!-- /.handover-project -->
                                         </div><!-- /.col-md-6 -->
                                     </div><!-- /.row -->
@@ -370,7 +347,7 @@
 
 
                         <section class="testimonial-wrapper">
-                            <h2 class="section-title wow fadeInDown">What our Clients Say</h2>
+                            <h2 class="section-title wow fadeInDown">Opinión de nuestros clientes</h2>
                             <div id="css-testimonial-carousel" class="carousel slide" data-ride="carousel">
                               <!-- Indicators -->
                               <ol class="carousel-indicators">
@@ -391,7 +368,7 @@
                                         </div><!-- /.col-md-8 -->   
                                         <div class="col-md-4 col-sm-5 wow fadeInRight">
                                             <div class="client-thumb">
-                                                <img src="estilos/img/tm-4.jpg" alt="">
+                                                <img src="estilos/img/testimonial-1.jpg" alt="">
                                             </div><!-- /.client-thumb -->
                                         </div><!-- /.col-md-4 -->   
                                     </div><!-- /.row -->
@@ -406,7 +383,7 @@
                                         </div><!-- /.col-md-8 -->   
                                         <div class="col-md-4 col-sm-5">
                                             <div class="client-thumb">
-                                                <img src="estilos/img/tm-4.jpg" alt="">
+                                                <img src="estilos/img/testimonial-2.jpg" alt="">
                                             </div><!-- /.client-thumb -->
                                         </div><!-- /.col-md-4 -->   
                                     </div><!-- /.row -->
@@ -421,7 +398,7 @@
                                         </div><!-- /.col-md-8 -->   
                                         <div class="col-md-4 col-sm-5">
                                             <div class="client-thumb">
-                                                <img src="estilos/img/tm-4.jpg" alt="">
+                                                <img src="estilos/img/testimonial-3.jpg" alt="">
                                             </div><!-- /.client-thumb -->
                                         </div><!-- /.col-md-4 -->   
                                     </div><!-- /.row -->
