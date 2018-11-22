@@ -2,13 +2,11 @@
 <html lang="en">
 @include('component.head')
 	<body>
-
 	  <div id="st-container" class="st-container">
 	    <div class="st-pusher">
 	      <div class="st-content">
 	        <div class="st-content-inner">
 			 	@include ('component.header')
-
 				<section class="page-header-wrapper">
 					<div class="container">
 						<div class="row">
@@ -24,8 +22,6 @@
 						</div><!-- /.row -->
 					</div><!-- /.container-fluid -->
 				</section>
-
-
 				<div class="container">
 					<div class="content-wrapper">
 						<div class="contact-us-wrapper">
@@ -56,8 +52,6 @@
 									</div>
 								</div>
 							</div><!-- /.row -->
-
-
 							<div class="row">
 								<div class="col-md-8">
 									<div class="map-wrapper">
@@ -74,34 +68,27 @@
 									</div>
 								</div>
 							</div><!-- /.row -->
-
-
 							<div class="directions-wrapper">
-
 								<div class="contact-directions">
 									<h2>Horario de Atención</h2>
 									<p>Lunes a Viernes, 8:00 AM a 5:00 PM</p>
 								</div>
-
-							</div><!-- /.directions-wrapper -->
-
+							</div>
 							<div class="contact-us-form">
-
-								<h2>Déjanos un mensaje rápido</h2>
-
-
-								<form id="contactForm" action="sendemail.php" method="POST">
+								<h2>Déjanos un mensaje</h2>
+								<form method="post" action="{{url('comentarios')}}">
+									{{ csrf_field() }}
 									<div class="row">
 										<div class="col-md-6">
 										  <div class="input-group">
-										    <label class="sr-only" for="name">Nombre</label>
+										    <label class="sr-only">Nombre</label>
 										    <span class="input-group-addon" id="basic-addon1"><i class="fa fa-user"></i></span>
 										    <input id="name" name="name" type="text" class="form-control"  required="" placeholder="Nombre">
 										  </div>
 										</div>
 										<div class="col-md-6">
 										  <div class="input-group">
-										    <label class="sr-only" for="email">Email</label>
+										    <label class="sr-only">Email</label>
 										    <span class="input-group-addon" id="basic-addon2"><i class="fa fa-envelope"></i></span>
 										    <input id="email" name="email" type="email" class="form-control" required="" placeholder="Email">
 										  </div>
@@ -110,41 +97,35 @@
 									<div class="row">
 										<div class="col-md-6">
 										  <div class="input-group">
-										    <label class="sr-only" for="phone">Teléfono</label>
+										    <label class="sr-only">Teléfono</label>
 										    <span class="input-group-addon" id="basic-addon3"><i class="fa fa-phone"></i></span>
 										    <input id="phone" name="phone" type="text" class="form-control" placeholder="Teléfono">
 										  </div>
 										</div>
 										<div class="col-md-6">
 										  <div class="input-group">
-										    <label class="sr-only" for="subject">Asunto</label>
+										    <label class="sr-only">Asunto</label>
 										    <span class="input-group-addon" id="basic-addon4"><i class="fa fa-file-text"></i></span>
 										    <input id="subject" name="subject" type="text" class="form-control" required="" placeholder="Asunto">
 										  </div>
 										</div>
 									</div>
-
 									<div class="input-group text-area">
-										<label class="sr-only" for="message">Mensaje</label>
+										<label class="sr-only">Mensaje</label>
 										<span class="input-group-addon" id="basic-addon5"><i class="fa fa-file-text-o"></i></span>
 										<textarea id="message" name="message" class="form-control" rows="6" required="" placeholder="Mensaje"></textarea>
 									</div>
-
-									<button type="submit" class="btn btn-primary btn-lg">Enviar</button>
+									<button type="submit" class="btn btn-primary ">Enviar</button>
+									<button type="reset" class="btn btn-info ">Limpiar</button>
 								</form>
 							</div>
-
 						</div><!-- /.content-wrapper -->
 					</div><!-- /.content-wrapper -->
 				</div><!-- /.container -->
-
 				@include ('component.footer')
-				
 	       	</div> <!-- .st-content-inner -->
 	      </div> <!-- .st-content -->
 	    </div> <!-- .st-pusher -->
-
   @include ('component.footerjs')
-
 	</body>
 </html>
