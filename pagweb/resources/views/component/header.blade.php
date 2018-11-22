@@ -15,10 +15,10 @@
                             <!-- Collect the nav links, forms, and other content for toggling -->
                             <div class="collapse navbar-collapse navbar-collapse">
                                 <ul class="nav navbar-nav navbar-right">
-                                    <li class="active"><a href="/">INICIO</a></li>
-                                    <li><a href="about-us" >NOSOTROS</a></li>
-                                    <li><a href="portafolio" >PORTAFOLIO</a></li>
-                                    <li><a href="contact">CONTÁCTENOS</a></li>
+                                    <li class=" nav-item {{ request()->is('/')? 'active' :''}}"><a href="/">INICIO</a></li>
+                                    <li class=" nav-item {{ request()->is('about-us')? 'active' :''}}"><a href="about-us" >NOSOTROS</a></li>
+                                    <li class=" nav-item {{ request()->is('portafolio')? 'active' :''}}"><a href="portafolio" >PORTAFOLIO</a></li>
+                                    <li class=" nav-item {{ request()->is('contact')? 'active' :''}}"><a href="contact">CONTÁCTENOS</a></li>
                                 </ul>
                             </div><!-- /.navbar-collapse -->
                         </div><!-- /.container -->

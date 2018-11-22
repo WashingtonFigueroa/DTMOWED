@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="no-js">
+<html lang="es" class="no-js">
 @include ('component.head')   
     <body>
       <div id="st-container" class="st-container">
@@ -225,8 +225,8 @@
 
                                         <div class="col-md-3 col-sm-6">
                                             <div class="our-progress">
-                                                <div class="chart" data-percent="85">
-                                                    <span class="percent">85</span>
+                                                <div class="chart" data-percent="90">
+                                                    <span class="percent">90</span>
                                                 </div>
 
                                                 <p>Diseño y Publicidad</p>
@@ -442,6 +442,7 @@
                                         <p>Autoadministrables brindando
                                             el sistema más facil y
                                             intiutivo del mercado. </p>
+                                          <br>
                                       </div><!-- /.panel-heading -->
 
                                       <div class="panel-body">
