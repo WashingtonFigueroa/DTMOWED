@@ -685,15 +685,15 @@ ADVANTAGES WRAPPER
 HANDOVER WRAPPER
 --------------------------------------------------------------------- */
 .handover-wrapper {
-    background-color: #5d564b;
-    color: #fff;
+    background-color: #fff;
+    color: #1b1e21;
     padding: 60px 0 60px 60px;
 }
 .handover-wrapper .item {
     margin-bottom: 40px;
 }
 .handover-project h3 {
-    color: #fff;
+    color: #1b1e21;
     font-weight: 500;
 }
 .handover-project ul {

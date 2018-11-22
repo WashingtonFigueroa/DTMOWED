@@ -27,12 +27,12 @@
 				<div class="container">
 					<div class="content-wrapper">
 						<section class="about-us-wrapper">
-							<h2>Our Story</h2>
+							<h2>Nuestra historia</h2>
 							<div class="row margin-bottom-60"> 
 								<div class="col-md-6">
 									<p>Leo cursus a nibh Vestibulum interdum sit nisl est lorem augue. Adipiscing hendrerit cursus et at nunc id natoque vitae mattis vitae. Curabitur tristique laoreet ut ut odio Lorem ante Integer tincidunt in. Congue Sed est quis justo pellentesque neque eros dolor eu et. Cras ipsum tempus non Donec ac ut neque sem nisl ut. Pretium magnis nisl nibh purus.</p>
 
-									<p>Sed enim eros Proin Nullam laoreet dictumst cursus Sed Fusce eu. Est auctor et mauris egestas at Quisque montes lacus ac pede. Felis vel tincidunt wisi elit quis vestibulum Curabitur iaculis consequat Proin itae Pellentesque.</p>
+									<p>es una  empresa de desarrollo de software que se especializa en la creación de software a la medida, ya sea en forma de aplicaciones estándar, web, aplicaciones móviles o sistemas de información más avanzados.</p>
 								</div><!-- /.col-md-6 -->
 
 								<div class="col-md-6">
@@ -42,7 +42,7 @@
 								</div><!-- /.col-md-6 -->
 							</div><!-- /.row -->
 
-							<h2>Our work station</h2>
+							<h2>Nuestra estación de trabajo</h2>
 							<div class="row">
 								<div class="col-md-12">
 									<em>Leo cursus a nibh Vestibulum interdum sit nisl est lorem augue. Adipiscing hendrerit cursus et at nunc id natoque vitae mattis vitae. Curabitur tristique laoreet ut ut odio Lorem ante Integer tincidunt in. Congue Sed est quis justo pellentesque neque eros dolor eu et. Cras ipsum tempus non Donec ac ut neque sem nisl ut. Pretium magnis nisl nibh purus eu pellentesque Curabitur senectus pellentesque congue. Dui velsenectus dapibus fringilla tortor Nulla laoreet tempus pretium lorem. Vestibulum lacus et nonummy id Nam ut volutpat ipsum sit metus.</em>
@@ -64,6 +64,7 @@
 									    		<p>Seamlessly plagiarize professional deliverables before enterprise-wide leadership. Authoritatively transition open-source solutions for client-centered leadership skills. Proactively expedite front-end bandwidth with collaborative leadership.</p>
 
 									    		<p>Seamlessly plagiarize professional deliverables before enterprise-wide leadership. Authoritatively transition open-source solutions for client-centered leadership skills.</p>
+												<br>
 									    	</div>
 								    	</div>
 								    </div>
@@ -79,6 +80,7 @@
 									    		<p>Seamlessly plagiarize professional deliverables before enterprise-wide leadership. Authoritatively transition open-source solutions for client-centered leadership skills. Proactively expedite front-end bandwidth with collaborative leadership.</p>
 
 									    		<p>Seamlessly plagiarize professional deliverables before enterprise-wide leadership. Authoritatively transition open-source solutions for client-centered leadership skills.</p>
+												<br>
 									    	</div>
 								    	</div>
 								    </div>
@@ -98,7 +100,7 @@
 						</section>
 
 						<section class="team-wrapper">
-							<h2 class="section-title">Our Team</h2>
+							<h2 class="section-title">Nuestro Equipo</h2>
 							<div class="css-team">
 								<div class="row">
 									<div class="col-md-4 col-sm-4 col-xs-12">
@@ -109,7 +111,7 @@
 												<a class="readmore" href="about-me.html"><i class="flaticon-square57"></i></a>
 											</div>
 											<div class="css-team-info">
-											<h3 class="css-team-heading">Bobby Webb<br> <small>Chairman</small></h3>
+											<h3 class="css-team-heading">Washington Figueroa<br> <small>Ing. Sistemas Computacionales</small></h3>
 											</div>
 										</figure>
 									</div><!-- /.col-md-4 -->
@@ -121,7 +123,7 @@
 												<a class="readmore" href="about-me.html"><i class="flaticon-square57"></i></a>
 											</div>
 											<div class="css-team-info">
-											<h3 class="css-team-heading">BRYAN SOTO<br> <small>Managing Partner</small></h3>
+											<h3 class="css-team-heading">Xavier Sevilla<br> <small>Ing. Sistemas Computacionales</small></h3>
 											</div>
 										</figure>
 									</div><!-- /.col-md-4 -->
@@ -133,7 +135,7 @@
 												<a class="readmore" href="about-me.html"><i class="flaticon-square57"></i></a>
 											</div>
 											<div class="css-team-info">
-											<h3 class="css-team-heading">THEODORE PARKER<br> <small>General Manager</small></h3>
+											<h3 class="css-team-heading">Oscar Troya<br> <small>Ing. Sistemas e Informatica</small></h3>
 											</div>
 										</figure>
 									</div><!-- /.col-md-4 -->
@@ -145,7 +147,7 @@
 												<a class="readmore" href="about-me.html"><i class="flaticon-square57"></i></a>
 											</div>
 											<div class="css-team-info">
-											<h3 class="css-team-heading">WALLACE JIMENEZ<br> <small>Head Of Risk Management</small></h3>
+											<h3 class="css-team-heading">Ondina Pascal<br> <small>Ing. Marcadotecnia</small></h3>
 											</div>
 										</figure>
 									</div><!-- /.col-md-4 -->
@@ -157,7 +159,7 @@
 												<a class="readmore" href="about-me.html"><i class="flaticon-square57"></i></a>
 											</div>
 											<div class="css-team-info">
-											<h3 class="css-team-heading">ERIC RICE<br> <small>Head Of Risk Management</small></h3>
+											<h3 class="css-team-heading">Gabriela Villota<br> <small>Tec. Diseño Grafico</small></h3>
 											</div>
 										</figure>
 									</div><!-- /.col-md-4 -->
@@ -169,14 +171,50 @@
 												<a class="readmore" href="about-me.html"><i class="flaticon-square57"></i></a>
 											</div>
 											<div class="css-team-info">
-											<h3 class="css-team-heading">FERNANDO BLACK<br> <small>Senior Analyst</small></h3>
+											<h3 class="css-team-heading">Franco Pozo<br> <small>Ing. Sistemas</small></h3>
+											</div>
+										</figure>
+									</div><!-- /.col-md-4 -->
+									<div class="col-md-4 col-sm-4 col-xs-12">
+										<figure>
+											<div class="css-team-avatar">
+												<div class="css-overlay"></div>
+												<img class="media-object img-responsive" src="estilos/img/team/tm7.jpg" alt="Image">
+												<a class="readmore" href="about-me.html"><i class="flaticon-square57"></i></a>
+											</div>
+											<div class="css-team-info">
+												<h3 class="css-team-heading">Mat <br> <small>Ing. Sistemas</small></h3>
+											</div>
+										</figure>
+									</div><!-- /.col-md-4 -->
+									<div class="col-md-4 col-sm-4 col-xs-12">
+										<figure>
+											<div class="css-team-avatar">
+												<div class="css-overlay"></div>
+												<img class="media-object img-responsive" src="estilos/img/team/tm8.jpg" alt="Image">
+												<a class="readmore" href="about-me.html"><i class="flaticon-square57"></i></a>
+											</div>
+											<div class="css-team-info">
+												<h3 class="css-team-heading">Bryan Moreno<br> <small>Ing. Comunicador Social</small></h3>
+											</div>
+										</figure>
+									</div><!-- /.col-md-4 -->
+									<div class="col-md-4 col-sm-4 col-xs-12">
+										<figure>
+											<div class="css-team-avatar">
+												<div class="css-overlay"></div>
+												<img class="media-object img-responsive" src="estilos/img/team/tm9.jpg" alt="Image">
+												<a class="readmore" href="about-me.html"><i class="flaticon-square57"></i></a>
+											</div>
+											<div class="css-team-info">
+												<h3 class="css-team-heading">Daniel Vinueza<br> <small>Desarrollador Web</small></h3>
 											</div>
 										</figure>
 									</div><!-- /.col-md-4 -->
 								</div><!-- /.row -->
 							</div><!-- /.css-team -->
 
-							<h2 class="section-title">Join Our Team</h2>
+							<h2 class="section-title">Unete a nuestro equipo</h2>
 							<div class="row">
 								<div class="col-sm-8">
 									<p>Conveniently incentivize intermandated manufactured products via interactive best practices. Quickly disintermediate low-risk high-yield portals through distributed services. Professionally conceptualize distinctive technologies before flexible ROI. Enthusiastically mesh prospective markets for emerging web-readiness. Objectively morph B2B vortals and enabled ideas.</p>
@@ -185,14 +223,12 @@
 								<div class="col-sm-4">
 									
 									<ul class="joblist-link">
-										<li><a href="job-page.html">Software Engineer</a></li>
-										<li><a href="job-page.html">Web Developer</a></li>
-										<li><a href="job-page.html">PHP Programmer</a></li>
-										<li><a href="job-page.html">Oracle Programmer</a></li>
-										<li><a href="job-page.html">Graphic Designer</a></li>
+										<li>Ingeniero de software</li>
+										<li>Desarrollador web</li>
+										<li>Diseño Grafico</li>
 									</ul>
 
-									<a class="btn btn-primary joblist-btn" href="#">View all jobs <i style="" class="fa fa-angle-right "></i> </a>
+									<a class="btn btn-primary joblist-btn" href="contact">Contactanos  <i style="" class="fa fa-angle-right "></i> </a>
 
 								</div>
 							</div>

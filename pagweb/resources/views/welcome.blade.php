@@ -24,10 +24,8 @@
 
                             <div class="container">
                                 <div class="carousel-caption">
-                                    <div class="phone animated lightSpeedIn">DT MOWED</div>
                                     <h1 class="animated lightSpeedIn">Desarrolladores Tecnológicos</h1>
-
-                                    <p class="lead animated lightSpeedIn">Programamos tu vida.</p>
+                                    <p class="lead animated lightSpeedIn">Automatizando procesos.</p>
 
                                 </div>
                                 <!--.carousel-caption-->
@@ -37,32 +35,47 @@
                         <!--.item-->
 
                         <div class="item">
-                            <img src="estilos/img/slider-1.jpg" alt="Hero Slide">
+                            <img src="estilos/img/slider-2.jpg" alt="Hero Slide">
                             <!--Slide Image-->
 
                             <div class="container">
                                 <div class="carousel-caption">
 
-                                    <h1 class="animated bounceIn">Servicio de Asesoría</h1>
+                                    <h1 class="animated bounceIn">Desarrollamos software </h1>
 
-                                    <p class="lead animated bounceIn">Informática y Mercadotecnia.</p>
+                                    <p class="lead animated bounceIn">a la medida de tu empresa.</p>
                                 </div>
                                 <!--.carousel-caption-->
                             </div>
                             <!--.container-->
                         </div>
                         <!--.item-->
-
                         <div class="item">
-                            <img src="estilos/img/slider-1.jpg" alt="Hero Slide">
+                            <img src="estilos/img/slider-3.jpg" alt="Hero Slide">
                             <!--Slide Image-->
 
                             <div class="container">
                                 <div class="carousel-caption">
 
-                                    <h1 class="animated bounceIn">Desarrollo y Venta</h1>
+                                    <h1 class="animated bounceIn">Diseñamos sitios web </h1>
 
-                                    <p class="lead animated bounceIn"> de Software</p>
+                                    <p class="lead animated bounceIn">que te hacen ver bien</p>
+                                </div>
+                                <!--.carousel-caption-->
+                            </div>
+                            <!--.container-->
+                        </div>
+                        <!--.item-->
+                        <div class="item">
+                            <img src="estilos/img/slider-4.jpg" alt="Hero Slide">
+                            <!--Slide Image-->
+
+                            <div class="container">
+                                <div class="carousel-caption">
+
+                                    <h1 class="animated bounceIn">Estrategias de Digital Marketing </h1>
+
+                                    <p class="lead animated bounceIn">para que el mundo te escuche</p>
                                 </div>
                                 <!--.carousel-caption-->
                             </div>
@@ -95,7 +108,7 @@
                                     <p class="wow fadeInDown">Desarrolladores Tecnológicos</p>
 
                                     <h3 class="wow fadeInDown">Sobre nuestra compañía</h3>
-                                    <p class="wow fadeInDown">Se forma a finales del 2014, con un equipo de profesionales del área de desarrollo de sistemas y sitios web. Actualmente, contamos con más de 3 años de experiencia, tiempo en el cual nos hemos convertido en una reconocida empresa en el medio; Nuestra filosofía única nos ha convertido en la mejor opción para clientes de todo tipo que buscan relaciones a largo plazo y les gusta hacer bien las cosas.</p>
+                                    <p class="wow fadeInDown">Se forma a finales del 2014, con un equipo de profesionales del área de desarrollo de sistemas y sitios web. Actualmente, contamos con más de 4 años de experiencia, tiempo en el cual nos hemos convertido en una reconocida empresa en el medio; Nuestra filosofía única nos ha convertido en la mejor opción para clientes de todo tipo que buscan relaciones a largo plazo y les gusta hacer bien las cosas.</p>
 
                                     <ul class="check-square">
                                         <li>Planificación y análisis de Sistemas Informaticos.</li>
@@ -119,7 +132,7 @@
                               <div class="col-md-6 wow fadeInRight">
                                 <div class="media">
                                   <a class="media-left" href="#">
-                                    <span class="icon bg1 flaticon-increasing5"></span>
+                                    <span class="icon bg1 flaticon-cogwheel8"></span>
                                   </a>
                                   <div class="media-body">
                                     <h3 class="media-heading"><a href="#">Desarrollo de Sistemas</a></h3>
@@ -131,7 +144,7 @@
                               <div class="col-md-6 wow fadeInRight">
                                 <div class="media">
                                   <a class="media-left" href="#">
-                                    <span class="icon bg2 flaticon-syncing"></span>
+                                    <span class="icon bg2 flaticon-wide6"></span>
                                   </a>
                                   <div class="media-body">
                                     <h3 class="media-heading"><a href="#">Diseño Web</a></h3>
@@ -143,7 +156,7 @@
                               <div class="col-md-6 wow fadeInRight">
                                 <div class="media">
                                   <a class="media-left" href="#">
-                                    <span class="icon bg3 flaticon-file24"></span>
+                                    <span class="icon bg3 flaticon-world29"></span>
                                   </a>
                                   <div class="media-body">
                                     <h3 class="media-heading"><a href="#">Mercadotecnia</a></h3>
@@ -155,7 +168,7 @@
                               <div class="col-md-6 wow fadeInRight">
                                 <div class="media">
                                   <a class="media-left" href="#">
-                                    <span class="icon bg4 flaticon-royalty"></span>
+                                    <span class="icon bg4 flaticon-shopping63"></span>
                                   </a>
                                   <div class="media-body">
                                     <h3 class="media-heading"><a href="#">Artículos</a></h3>
@@ -166,113 +179,109 @@
                             </div> <!-- /.row -->
                         </section>
 
-                        {{-- <section class="advantages-wrapper">
-                            <h2 class="section-title wow fadeInDown">Our advantages</h2>
+                         <section class="advantages-wrapper">
+                            <h2 class="section-title wow fadeInDown">Nuestras Habilidades</h2>
                             <div class="css-tab text-center">
                               <!-- Nav tabs -->
                               <ul class="nav nav-tabs" role="tablist">
-                                <li class="active"><a href="#experiance" aria-controls="experiance" role="tab" data-toggle="tab">Experiance</a></li>
-                                <li><a href="#skills" aria-controls="skills" role="tab" data-toggle="tab">Skills</a></li>
-                                <li><a href="#capabilities" aria-controls="capabilities" role="tab" data-toggle="tab">Capabilities</a></li>
+                                <li class="active"><a href="#experiance" aria-controls="experiance" role="tab" data-toggle="tab">Habilidades&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+                                <li><a href="#skills" aria-controls="skills" role="tab" data-toggle="tab">Experiencia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+                                {{--<li><a href="#capabilities" aria-controls="capabilities" role="tab" data-toggle="tab">Capabilities</a></li>--}}
                               </ul>
 
                               <!-- Tab panes -->
                               <div class="tab-content">
                                 <div role="tabpanel" class="tab-pane fade in active" id="experiance">
                                     <div class="row">
-                                        <div class="col-sm-6 text-left experiance-tab-content wow fadeInLeft">
-                                            <h3>20 Years of Experience</h3>
-                                            <p>Seamlessly strategize empowered action items via adaptive web services. Competently leverage existing just in time mindshare and equity invested information. Holisticly expedite progressive e-markets with cross-platform deliverables. Dramatically orchestrate ethical intellectual capital rather than principle-centered functionalities. Distinctively innovate go forward paradigms with empowered internal or "organic" sources. Distinctively reinvent exceptional intellectual capital whereas client-centric web-readiness.</p>
-                                        </div><!--/.col-sm-6 -->
+                                        <div class="col-md-3 col-sm-6">
+                                            <div class="our-progress">
+                                                <div class="chart" data-percent="99">
+                                                    <span class="percent">99</span>
+                                                </div>
 
-                                        <div class="col-sm-6 text-left experiance-tab-content wow fadeInRight">
-                                            <h3>More than 50 Successful Projects</h3>
-                                            <p>Seamlessly strategize empowered action items via adaptive web services. Competently leverage existing just in time mindshare and equity invested information. Holisticly expedite progressive e-markets with cross-platform deliverables. Dramatically orchestrate ethical intellectual capital rather than principle-centered functionalities. Distinctively innovate go forward paradigms with empowered internal or "organic" sources. Distinctively reinvent exceptional intellectual capital whereas client-centric web-readiness.</p>
-                                        </div><!--/.col-sm-6 -->
+                                                <p>Desarrollo de Software</p>
+                                            </div><!-- /.our-progress -->
+                                        </div><!-- /.col-md-3 -->
+
+                                        <div class="col-md-3 col-sm-6">
+                                            <div class="our-progress">
+                                                <div class="chart" data-percent="90">
+                                                    <span class="percent">90</span>
+                                                </div>
+
+                                                <p>Aplicaciones Móviles</p>
+                                            </div><!-- /.our-progress -->
+                                        </div><!-- /.col-md-3 -->
+
+                                        <div class="col-md-3 col-sm-6">
+                                            <div class="our-progress">
+                                                <div class="chart" data-percent="95">
+                                                    <span class="percent">95</span>
+                                                </div>
+
+                                                <p>Mercadeo</p>
+                                            </div><!-- /.our-progress -->
+                                        </div><!-- /.col-md-3 -->
+
+                                        <div class="col-md-3 col-sm-6">
+                                            <div class="our-progress">
+                                                <div class="chart" data-percent="85">
+                                                    <span class="percent">85</span>
+                                                </div>
+
+                                                <p>Diseño y Publicidad</p>
+                                            </div><!-- /.our-progress -->
+                                        </div><!-- /.col-md-3 -->
                                     </div><!-- /.row -->
                                 </div>
 
                                 <div role="tabpanel" class="tab-pane fade" id="skills">
                                     <div class="our-skill">
                                         <div class="row">
-                                            <div class="col-md-3 col-sm-6">
-                                                <div class="our-progress">
-                                                    <div class="chart" data-percent="73">
-                                                        <span class="percent">73</span>
-                                                    </div>
-
-                                                    <p>Lorem ipsum dolor consectetuer</p>
-                                                </div><!-- /.our-progress -->
-                                            </div><!-- /.col-md-3 -->
-
-                                            <div class="col-md-3 col-sm-6">
-                                                <div class="our-progress">
-                                                    <div class="chart" data-percent="80">
-                                                        <span class="percent">80</span>
-                                                    </div>
-
-                                                    <p>Lorem ipsum dolor consectetuer</p>
-                                                </div><!-- /.our-progress -->
-                                            </div><!-- /.col-md-3 -->
-
-                                            <div class="col-md-3 col-sm-6">
-                                                <div class="our-progress">
-                                                    <div class="chart" data-percent="90">
-                                                        <span class="percent">90</span>
-                                                    </div>
-
-                                                    <p>Lorem ipsum dolor consectetuer</p>
-                                                </div><!-- /.our-progress -->
-                                            </div><!-- /.col-md-3 -->
-
-                                            <div class="col-md-3 col-sm-6">
-                                                <div class="our-progress">
-                                                    <div class="chart" data-percent="70">
-                                                        <span class="percent">70</span>
-                                                    </div>
-
-                                                    <p>Lorem ipsum dolor consectetuer</p>
-                                                </div><!-- /.our-progress -->
-                                            </div><!-- /.col-md-3 -->
-                                        </div><!-- /.row -->
+                                            <div class="col-sm-12 text-center experiance-tab-content wow fadeInLeft">
+                                                <h3>4 años de Experiencia</h3>
+                                                <p>Nuestra experiencia, metodología
+                                                    y construcción de soluciones informáticas están al servicio de nuestros clientes. Desde hace 4 años ayudamos a diversos negocios y a nuestro país a dar el paso tecnológico que necesitamos.</p>
+                                            </div>
+                                        </div>
                                     </div><!-- /.our-skill -->
                                 </div><!--/#skills -->
 
-                                <div role="tabpanel" class="tab-pane fade" id="capabilities">
-                                    <div class="row "> 
-                                        <div class="col-md-6 col-xs-12 capability-tab-content">
-                                            <div class="media">
-                                                <div class="media-left">
-                                                    <img src="estilos/img/tab-capa-1.jpg" alt="">
-                                                </div>
+                                {{--<div role="tabpanel" class="tab-pane fade" id="capabilities">--}}
+                                    {{--<div class="row ">--}}
+                                        {{--<div class="col-md-6 col-xs-12 capability-tab-content">--}}
+                                            {{--<div class="media">--}}
+                                                {{--<div class="media-left">--}}
+                                                    {{--<img src="estilos/img/tab-capa-1.jpg" alt="">--}}
+                                                {{--</div>--}}
 
-                                                <div class="media-body text-left">
-                                                    <h3 class="media-heading">Building your business growth &amp; prosperity</h3>
-                                                    <p>Holisticly mesh granular bandwidth without seamless manufactured products. Monotonectally productize team building e-commerce before global bandwidth. Uniquely mesh resource sucking content and robust portals.</p>
-                                                </div><!-- /.media-body -->
-                                            </div><!-- /.media -->
-                                        </div><!-- /.col-md-6 -->
+                                                {{--<div class="media-body text-left">--}}
+                                                    {{--<h3 class="media-heading">Building your business growth &amp; prosperity</h3>--}}
+                                                    {{--<p>Holisticly mesh granular bandwidth without seamless manufactured products. Monotonectally productize team building e-commerce before global bandwidth. Uniquely mesh resource sucking content and robust portals.</p>--}}
+                                                {{--</div><!-- /.media-body -->--}}
+                                            {{--</div><!-- /.media -->--}}
+                                        {{--</div><!-- /.col-md-6 -->--}}
 
-                                        <div class="col-md-6 col-xs-12 capability-tab-content">
-                                            <div class="media">
-                                                <div class="media-left">
-                                                    <img src="estilos/img/tab-capa-2.jpg" alt="">
-                                                </div>
+                                        {{--<div class="col-md-6 col-xs-12 capability-tab-content">--}}
+                                            {{--<div class="media">--}}
+                                                {{--<div class="media-left">--}}
+                                                    {{--<img src="estilos/img/tab-capa-2.jpg" alt="">--}}
+                                                {{--</div>--}}
 
-                                                <div class="media-body text-left">
-                                                    <h3 class="media-heading">Building your business growth &amp; prosperity</h3>
-                                                    <p>Holisticly mesh granular bandwidth without seamless manufactured products. Monotonectally productize team building e-commerce before global bandwidth. Uniquely mesh resource sucking content and robust portals.</p>
-                                                </div><!-- /.media-body -->
-                                            </div><!-- /.media -->
-                                        </div><!-- /.col-md-6 -->
-                                    </div><!-- /.row -->
-                                </div><!-- /.tab-pane -->
+                                                {{--<div class="media-body text-left">--}}
+                                                    {{--<h3 class="media-heading">Building your business growth &amp; prosperity</h3>--}}
+                                                    {{--<p>Holisticly mesh granular bandwidth without seamless manufactured products. Monotonectally productize team building e-commerce before global bandwidth. Uniquely mesh resource sucking content and robust portals.</p>--}}
+                                                {{--</div><!-- /.media-body -->--}}
+                                            {{--</div><!-- /.media -->--}}
+                                        {{--</div><!-- /.col-md-6 -->--}}
+                                    {{--</div><!-- /.row -->--}}
+                                {{--</div><!-- /.tab-pane -->--}}
                               </div><!-- /.tab-content -->
                             </div><!-- /.css-tab -->
-                        </section> --}}
+                        </section>
 
                         <section class="handover-wrapper">
-                            <h2 class="section-title wow fadeInDown">Algunos de nuestros mejores servicios</h2>
+                            <h2 class="section-title wow fadeInDown" style="color: #1b1e21">Algunos de nuestros  servicios</h2>
                             <div id="css-handover-carousel" class="carousel slide" data-ride="carousel">
                               <!-- Indicators -->
                               <ol class="carousel-indicators">
@@ -346,106 +355,106 @@
                         </section>
 
 
-                        <section class="testimonial-wrapper">
-                            <h2 class="section-title wow fadeInDown">Opinión de nuestros clientes</h2>
-                            <div id="css-testimonial-carousel" class="carousel slide" data-ride="carousel">
-                              <!-- Indicators -->
-                              <ol class="carousel-indicators">
-                                <li data-target="#css-testimonial-carousel" data-slide-to="0" class="active"></li>
-                                <li data-target="#css-testimonial-carousel" data-slide-to="1"></li>
-                                <li data-target="#css-testimonial-carousel" data-slide-to="2"></li>
-                              </ol>
+                        {{--<section class="testimonial-wrapper">--}}
+                            {{--<h2 class="section-title wow fadeInDown">Opinión de nuestros clientes</h2>--}}
+                            {{--<div id="css-testimonial-carousel" class="carousel slide" data-ride="carousel">--}}
+                              {{--<!-- Indicators -->--}}
+                              {{--<ol class="carousel-indicators">--}}
+                                {{--<li data-target="#css-testimonial-carousel" data-slide-to="0" class="active"></li>--}}
+                                {{--<li data-target="#css-testimonial-carousel" data-slide-to="1"></li>--}}
+                                {{--<li data-target="#css-testimonial-carousel" data-slide-to="2"></li>--}}
+                              {{--</ol>--}}
 
-                              <!-- Wrapper for slides -->
-                              <div class="carousel-inner">
-                                <div class="item active">
-                                    <div class="row">
-                                        <div class="col-md-8 col-sm-7 wow fadeInLeft">
-                                            <div class="client-testimonial">
-                                              <p>Enthusiastically envisioneer state of the art quality vectors without robust materials. Conveniently coordinate error-free ideas and.sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
-                                              <span class="client-name">John Doe</span>, <span class="client-org">Themehippo</span>
-                                            </div>
-                                        </div><!-- /.col-md-8 -->   
-                                        <div class="col-md-4 col-sm-5 wow fadeInRight">
-                                            <div class="client-thumb">
-                                                <img src="estilos/img/testimonial-1.jpg" alt="">
-                                            </div><!-- /.client-thumb -->
-                                        </div><!-- /.col-md-4 -->   
-                                    </div><!-- /.row -->
-                                </div><!-- /.item -->
-                                <div class="item">
-                                    <div class="row">
-                                        <div class="col-md-8 col-sm-7">
-                                            <div class="client-testimonial">
-                                              <p>Enthusiastically envisioneer state of the art quality vectors without robust materials. Conveniently coordinate error-free ideas and.sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
-                                              <span class="client-name">John Doe</span>, <span class="client-org">Themehippo</span>
-                                            </div>
-                                        </div><!-- /.col-md-8 -->   
-                                        <div class="col-md-4 col-sm-5">
-                                            <div class="client-thumb">
-                                                <img src="estilos/img/testimonial-2.jpg" alt="">
-                                            </div><!-- /.client-thumb -->
-                                        </div><!-- /.col-md-4 -->   
-                                    </div><!-- /.row -->
-                                </div><!-- /.item -->
-                                <div class="item">
-                                    <div class="row">
-                                        <div class="col-md-8 col-sm-7">
-                                            <div class="client-testimonial">
-                                              <p>Enthusiastically envisioneer state of the art quality vectors without robust materials. Conveniently coordinate error-free ideas and.sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
-                                              <span class="client-name">John Doe</span>, <span class="client-org">Themehippo</span>
-                                            </div>
-                                        </div><!-- /.col-md-8 -->   
-                                        <div class="col-md-4 col-sm-5">
-                                            <div class="client-thumb">
-                                                <img src="estilos/img/testimonial-3.jpg" alt="">
-                                            </div><!-- /.client-thumb -->
-                                        </div><!-- /.col-md-4 -->   
-                                    </div><!-- /.row -->
-                                </div><!-- /.item -->
-                              </div><!-- /.carousel-inner -->
-                            </div><!-- /.carousel -->
-                        </section><!-- /.testimonial-wrapper -->
+                              {{--<!-- Wrapper for slides -->--}}
+                              {{--<div class="carousel-inner">--}}
+                                {{--<div class="item active">--}}
+                                    {{--<div class="row">--}}
+                                        {{--<div class="col-md-8 col-sm-7 wow fadeInLeft">--}}
+                                            {{--<div class="client-testimonial">--}}
+                                              {{--<p>Enthusiastically envisioneer state of the art quality vectors without robust materials. Conveniently coordinate error-free ideas and.sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>--}}
+                                              {{--<span class="client-name">John Doe</span>, <span class="client-org">Themehippo</span>--}}
+                                            {{--</div>--}}
+                                        {{--</div><!-- /.col-md-8 -->   --}}
+                                        {{--<div class="col-md-4 col-sm-5 wow fadeInRight">--}}
+                                            {{--<div class="client-thumb">--}}
+                                                {{--<img src="estilos/img/testimonial-1.jpg" alt="">--}}
+                                            {{--</div><!-- /.client-thumb -->--}}
+                                        {{--</div><!-- /.col-md-4 -->   --}}
+                                    {{--</div><!-- /.row -->--}}
+                                {{--</div><!-- /.item -->--}}
+                                {{--<div class="item">--}}
+                                    {{--<div class="row">--}}
+                                        {{--<div class="col-md-8 col-sm-7">--}}
+                                            {{--<div class="client-testimonial">--}}
+                                              {{--<p>Enthusiastically envisioneer state of the art quality vectors without robust materials. Conveniently coordinate error-free ideas and.sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>--}}
+                                              {{--<span class="client-name">John Doe</span>, <span class="client-org">Themehippo</span>--}}
+                                            {{--</div>--}}
+                                        {{--</div><!-- /.col-md-8 -->   --}}
+                                        {{--<div class="col-md-4 col-sm-5">--}}
+                                            {{--<div class="client-thumb">--}}
+                                                {{--<img src="estilos/img/testimonial-2.jpg" alt="">--}}
+                                            {{--</div><!-- /.client-thumb -->--}}
+                                        {{--</div><!-- /.col-md-4 -->   --}}
+                                    {{--</div><!-- /.row -->--}}
+                                {{--</div><!-- /.item -->--}}
+                                {{--<div class="item">--}}
+                                    {{--<div class="row">--}}
+                                        {{--<div class="col-md-8 col-sm-7">--}}
+                                            {{--<div class="client-testimonial">--}}
+                                              {{--<p>Enthusiastically envisioneer state of the art quality vectors without robust materials. Conveniently coordinate error-free ideas and.sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>--}}
+                                              {{--<span class="client-name">John Doe</span>, <span class="client-org">Themehippo</span>--}}
+                                            {{--</div>--}}
+                                        {{--</div><!-- /.col-md-8 -->   --}}
+                                        {{--<div class="col-md-4 col-sm-5">--}}
+                                            {{--<div class="client-thumb">--}}
+                                                {{--<img src="estilos/img/testimonial-3.jpg" alt="">--}}
+                                            {{--</div><!-- /.client-thumb -->--}}
+                                        {{--</div><!-- /.col-md-4 -->   --}}
+                                    {{--</div><!-- /.row -->--}}
+                                {{--</div><!-- /.item -->--}}
+                              {{--</div><!-- /.carousel-inner -->--}}
+                            {{--</div><!-- /.carousel -->--}}
+                        {{--</section>--}}
 
 
                         <section class="trusted-client-wrapper">
-                            <h2 class="section-title wow fadeInDown">We are Trusted by</h2>
-                            <ul class="partner-logo">
-                                <li class="wow zoomIn"><a href="#"><img src="estilos/img/partner/partner-logo-1.png" alt=""></a></li>
-                                <li class="wow zoomIn"><a href="#"><img src="estilos/img/partner/partner-logo-2.png" alt=""></a></li>
-                                <li class="wow zoomIn"><a href="#"><img src="estilos/img/partner/partner-logo-3.png" alt=""></a></li>
-                                <li class="wow zoomIn"><a href="#"><img src="estilos/img/partner/partner-logo-4.png" alt=""></a></li>
-                                <li class="wow zoomIn"><a href="#"><img src="estilos/img/partner/partner-logo-5.png" alt=""></a></li>
-                                <li class="wow zoomIn"><a href="#"><img src="estilos/img/partner/partner-logo-6.png" alt=""></a></li>
-                                <li class="wow zoomIn"><a href="#"><img src="estilos/img/partner/partner-logo-7.png" alt=""></a></li>
-                                <li class="wow zoomIn"><a href="#"><img src="estilos/img/partner/partner-logo-8.png" alt=""></a></li>
-                                <li class="wow zoomIn"><a href="#"><img src="estilos/img/partner/partner-logo-9.png" alt=""></a></li>
-                            </ul>
+                            <h2 class="section-title wow fadeInDown">PARTNER DT MOWED</h2>
+                            <div class="row">
+                                <div class="col-sm-12 text-center experiance-tab-content wow fadeInLeft">
+                                    <ul class="partner-logo">
+                                        <li class="wow zoomIn"><a href="#"> <img src="estilos/img/partner/partner-logo-1.png" class="rounded mx-auto d-block" alt=""></a></li>
+                                        <li class="wow zoomIn"><a href="#"><img src="estilos/img/partner/partner-logo-2.png" class="rounded mx-auto d-block" alt=""></a></li>
+                                        <li class="wow zoomIn"><a href="#"><img src="estilos/img/partner/partner-logo-3.png" class="rounded rounded float-right" alt=""></a></li>
+                                    </ul>
+                               </div>
+                            </div>
                         </section>
 
                         <section class="subscription-wrapper text-center">
-                            <h2 class="wow fadeInDown">Take into our subscription plans</h2>
-                            <h3 class="pricing-sub wow fadeInDown">Choose the one which fits your organization (don't worry, you will be able to upgrade <br> or downgrade or cancel it anytime)</h3>
+                            <h2 class="wow fadeInDown">Nuestros planes de suscripción</h2>
+                            <h3 class="pricing-sub wow fadeInDown">Creamos soluciones para hacer más grande tu negocio</h3>
 
                             <div class="row">
                                 <div class="col-lg-4 col-md-6 col-sm-6 col-lg-offset-2 text-left wow fadeInLeft">
                                     <div class="panel panel-default">
                                       <div class="panel-heading">
-                                        <h2>Basic <small>Dynamically morph focused</small></h2>
-                                        <p>Objectively empowers <br> Clicks and morter schemas <br> whereas plug and play testing</p>
+                                        <h2>Diseño Web <small>Basic</small></h2>
+                                        <p>Autoadministrables brindando
+                                            el sistema más facil y
+                                            intiutivo del mercado. </p>
                                       </div><!-- /.panel-heading -->
 
                                       <div class="panel-body">
                                         <ul class="check-square-o">
-                                            <li>Compellingly myocardinate</li>
-                                            <li>Stand alone value</li>
-                                            <li>Uniquely strategize superior</li>
+                                            <li>Responsive web</li>
+                                            <li>Emails corporativo</li>
+                                            <li>1 año de hosting (alojamiento) GRATIS</li>
                                         </ul>
 
-                                        <span class="price">$47 <small>/ Per month</small></span>
+                                        <span class="price text-center"><small>Desde / </small> $149 </span>
 
                                         <div class="pricing-btn">
-                                            <a class="btn btn-success" href="#">Get Started</a> <span>30 days trial included</span>
+                                            <a class="btn btn-success" href="contact">Comienza Ya</a>
                                         </div>
                                       </div><!-- /.panel-body -->
                                     </div><!-- /.panel -->
@@ -454,21 +463,24 @@
                                 <div class="col-lg-4 col-md-6 col-sm-6 text-left wow fadeInRight">
                                     <div class="panel panel-default featured-price">
                                       <div class="panel-heading">
-                                        <h2>Enterprise <small>Dynamically morph focused</small></h2>
-                                        <p>Objectively empowers <br> Clicks and morter schemas <br> whereas plug and play testing</p>
+                                        <h2>COATL FACT <small>Facturación Electronica</small></h2>
+                                        <p>Permite crear de forma fácil y rápida
+                                            facturas, presupuestos,informes con sus
+                                            plantillas totalmente personalizables.</p>
                                       </div><!-- /.panel-heading -->
 
                                       <div class="panel-body">
                                         <ul class="check-square-o">
-                                            <li>Compellingly myocardinate</li>
-                                            <li>Stand alone value</li>
-                                            <li>Uniquely strategize superior</li>
+                                            <li>Gestionar ingresos, gastos</li>
+                                            <li>Inventario</li>
+                                            <li>Multi usuarios</li>
+                                            <li>Sistema Web & Móvil</li>
                                         </ul>
 
-                                        <span class="price">$399 <small>/ Per month</small></span>
+                                        <span class="price text-center"><small>Desde /</small>$9 </span>
 
                                         <div class="pricing-btn">
-                                            <a class="btn btn-success" href="#">Get Started</a> <span>30 days trial included</span>
+                                            <a class="btn btn-success" href="contact">Comienza Ya</a>
                                         </div>
 
                                       </div><!-- /.panel-body -->
@@ -480,10 +492,10 @@
                         <section class="support-wrapper">
                             <div class="row">
                                 <div class="col-lg-8 col-lg-offset-1">
-                                    <h2 class="wow fadeInDown">We have 24/7 dedicated support team</h2>
-                                    <p class="wow fadeInDown">Proactively negotiate interdependent quality vectors for cross functional collaboration and idea-sharing. Dynamically myocardinate business quality vectors for web-enabled leadership. Synergistically simplify world-class alignments whereas extensible.</p>
+                                    <h2 class="wow fadeInDown">Contamos con un equipo de soporte dedicado 8/6</h2>
+                                    <p class="wow fadeInDown">Profesionales dispuestos a ayudarte y orientarte en cada proceso de la utilización de nuestros servicios en un horario amplio de atención. </p>
 
-                                    <a class="btn btn-primary btn-lg wow fadeInDown" href="#">Get Instant Support</a>
+                                    <a class="btn btn-primary btn-lg wow fadeInDown" href="contact">Obtener soporte instantáneo</a>
                                 </div>
                             </div>
                         </section>
