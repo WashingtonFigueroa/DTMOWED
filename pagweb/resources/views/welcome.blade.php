@@ -508,6 +508,8 @@
            </div> <!-- .st-content -->
         </div> <!-- .st-pusher -->
 
+        @include ('component.offcanvas')
+
         @include ('component.footerjs')
     </body>
 </html>

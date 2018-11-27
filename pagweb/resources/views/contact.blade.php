@@ -126,6 +126,7 @@
 	       	</div> <!-- .st-content-inner -->
 	      </div> <!-- .st-content -->
 	    </div> <!-- .st-pusher -->
-  @include ('component.footerjs')
+	    @include ('component.offcanvas')
+		@include ('component.footerjs')
 	</body>
 </html>

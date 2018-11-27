@@ -137,7 +137,7 @@
 											<div class="css-team-avatar">
 												<div class="css-overlay"></div>
 												<img class="media-object img-responsive" src="estilos/img/team/tm1.jpg" alt="Image">
-												<a class="readmore" href="about-me.html"><i class="flaticon-square57"></i></a>
+												<a class="readmore" href="#"><i class="flaticon-square57"></i></a>
 											</div>
 											<div class="css-team-info">
 											<h3 class="css-team-heading">Washington Figueroa<br> <small>Ing. Sistemas Computacionales</small></h3>
@@ -149,7 +149,7 @@
 											<div class="css-team-avatar">
 												<div class="css-overlay"></div>
 												<img class="media-object img-responsive" src="estilos/img/team/tm2.jpg" alt="Image">
-												<a class="readmore" href="about-me.html"><i class="flaticon-square57"></i></a>
+												<a class="readmore" href="#"><i class="flaticon-square57"></i></a>
 											</div>
 											<div class="css-team-info">
 											<h3 class="css-team-heading">Xavier Sevilla<br> <small>Ing. Sistemas Computacionales</small></h3>
@@ -161,7 +161,7 @@
 											<div class="css-team-avatar">
 												<div class="css-overlay"></div>
 												<img class="media-object img-responsive" src="estilos/img/team/tm3.jpg" alt="Image">
-												<a class="readmore" href="about-me.html"><i class="flaticon-square57"></i></a>
+												<a class="readmore" href="#"><i class="flaticon-square57"></i></a>
 											</div>
 											<div class="css-team-info">
 											<h3 class="css-team-heading">Oscar Troya<br> <small>Ing. Sistemas e Informatica</small></h3>
@@ -173,7 +173,7 @@
 											<div class="css-team-avatar">
 												<div class="css-overlay"></div>
 												<img class="media-object img-responsive" src="estilos/img/team/tm4.jpg" alt="Image">
-												<a class="readmore" href="about-me.html"><i class="flaticon-square57"></i></a>
+												<a class="readmore" href="#"><i class="flaticon-square57"></i></a>
 											</div>
 											<div class="css-team-info">
 											<h3 class="css-team-heading">Ondina Pascal<br> <small>Ing. Marcadotecnia</small></h3>
@@ -185,7 +185,7 @@
 											<div class="css-team-avatar">
 												<div class="css-overlay"></div>
 												<img class="media-object img-responsive" src="estilos/img/team/tm5.jpg" alt="Image">
-												<a class="readmore" href="about-me.html"><i class="flaticon-square57"></i></a>
+												<a class="readmore" href="#"><i class="flaticon-square57"></i></a>
 											</div>
 											<div class="css-team-info">
 											<h3 class="css-team-heading">Gabriela Villota<br> <small>Tec. Diseño Grafico</small></h3>
@@ -197,7 +197,7 @@
 											<div class="css-team-avatar">
 												<div class="css-overlay"></div>
 												<img class="media-object img-responsive" src="estilos/img/team/tm6.jpg" alt="Image">
-												<a class="readmore" href="about-me.html"><i class="flaticon-square57"></i></a>
+												<a class="readmore" href="#"><i class="flaticon-square57"></i></a>
 											</div>
 											<div class="css-team-info">
 											<h3 class="css-team-heading">Franco Pozo<br> <small>Ing. Sistemas</small></h3>
@@ -209,7 +209,7 @@
 											<div class="css-team-avatar">
 												<div class="css-overlay"></div>
 												<img class="media-object img-responsive" src="estilos/img/team/tm7.jpg" alt="Image">
-												<a class="readmore" href="about-me.html"><i class="flaticon-square57"></i></a>
+												<a class="readmore" href="#"><i class="flaticon-square57"></i></a>
 											</div>
 											<div class="css-team-info">
 												<h3 class="css-team-heading">Mat <br> <small>Ing. Sistemas</small></h3>
@@ -221,7 +221,7 @@
 											<div class="css-team-avatar">
 												<div class="css-overlay"></div>
 												<img class="media-object img-responsive" src="estilos/img/team/tm8.jpg" alt="Image">
-												<a class="readmore" href="about-me.html"><i class="flaticon-square57"></i></a>
+												<a class="readmore" href="#"><i class="flaticon-square57"></i></a>
 											</div>
 											<div class="css-team-info">
 												<h3 class="css-team-heading">Bryan Moreno<br> <small>Ing. Comunicador Social</small></h3>
@@ -233,7 +233,7 @@
 											<div class="css-team-avatar">
 												<div class="css-overlay"></div>
 												<img class="media-object img-responsive" src="estilos/img/team/tm9.jpg" alt="Image">
-												<a class="readmore" href="about-me.html"><i class="flaticon-square57"></i></a>
+												<a class="readmore" href="#"><i class="flaticon-square57"></i></a>
 											</div>
 											<div class="css-team-info">
 												<h3 class="css-team-heading">Daniel Vinueza<br> <small>Desarrollador Web</small></h3>
@@ -277,6 +277,7 @@
 	        </div> <!-- .st-content-inner -->
 	      </div> <!-- .st-content -->
 	    </div> <!-- .st-pusher -->
-		  @include ('component.footerjs')
+	    @include ('component.offcanvas')
+		@include ('component.footerjs')
 	</body>
 </html>

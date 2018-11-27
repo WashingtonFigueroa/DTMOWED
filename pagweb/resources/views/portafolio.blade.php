@@ -38,7 +38,6 @@
     <![endif]-->
 </head>
 
-
 <body>
 <div id="st-container" class="st-container">
     <div class="st-pusher">
@@ -229,6 +228,7 @@
             </div> <!-- .st-content-inner -->
         </div> <!-- .st-content -->
     </div> <!-- .st-pusher -->
+    @include('component.offcanvas')
 </div><!-- /st-container -->
 
 @include('component.footerjs')
