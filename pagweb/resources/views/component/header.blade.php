@@ -17,7 +17,7 @@
                                 <ul class="nav navbar-nav navbar-right">
                                     <li class=" nav-item {{ request()->is('/')? 'active' :''}}"><a href="/">INICIO</a></li>
                                     <li class=" nav-item {{ request()->is('about-us')? 'active' :''}}"><a href="about-us" >NOSOTROS</a></li>
-                                    <li class=" nav-item {{ request()->is('portafolio')? 'active' :''}}"><a href="portafolio" >PORTAFOLIO</a></li>
+                                    <li class=" nav-item {{ request()->is('portafolio')? 'active' :''}}"><a href="portafolio" >PROYECTOS</a></li>
                                     <li class=" nav-item {{ request()->is('contact')? 'active' :''}}"><a href="contact">CONTÁCTENOS</a></li>
                                 </ul>
                             </div><!-- /.navbar-collapse -->

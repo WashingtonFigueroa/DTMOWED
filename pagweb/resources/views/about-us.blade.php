@@ -27,25 +27,25 @@
 				<div class="container">
 					<div class="content-wrapper">
 						<section class="about-us-wrapper">
-							<h2>Nuestra historia</h2>
+							<h2>Sobre Nosotros</h2>
 							<div class="row margin-bottom-60"> 
 								<div class="col-md-6">
-									<p>Leo cursus a nibh Vestibulum interdum sit nisl est lorem augue. Adipiscing hendrerit cursus et at nunc id natoque vitae mattis vitae. Curabitur tristique laoreet ut ut odio Lorem ante Integer tincidunt in. Congue Sed est quis justo pellentesque neque eros dolor eu et. Cras ipsum tempus non Donec ac ut neque sem nisl ut. Pretium magnis nisl nibh purus.</p>
+									<p>Somos una empresa Ecuatoria dedicada al desarrollo de software de alta calidad, brindando una excelente atención a nuestros clientes y con un alto compromiso en los tiempos de entrega de nuestros proyectos.</p>
 
-									<p>es una  empresa de desarrollo de software que se especializa en la creación de software a la medida, ya sea en forma de aplicaciones estándar, web, aplicaciones móviles o sistemas de información más avanzados.</p>
+									<p>Acumulamos 4 años de experiencia, trabajando con empresas de diferentes sectores, desarrollando sistemas de información en las áreas de ventas y marketing, producción, finanzas, contabilidad y recursos humanos.</p>
 								</div><!-- /.col-md-6 -->
 
 								<div class="col-md-6">
-									<p>Vestibulum interdum sit nisl est lorem augue. Adipiscing hendrerit cursus et at nunc id natoque vitae mattis vitae. Curabitur tristique laoreet ut ut odio Lorem ante Integer tincidunt in. Congue Sed est quis justo pellentesque neque eros dolor eu et. Cras ipsum tempus non Donec ac ut neque sem nisl ut. Pretium magnis nisl nibh purus eu pellentesque.</p>
+									<p>Brindamos Software a la medida, comercio electrónico, aplicaciones en facebook, web móvil, diseño e imagen corporativa, soporte y mantenimiento son los principales servicios que ofrecemos a nuestros clientes.</p>
 
-									<p>Vestibulum interdum sit nisl est lorem augue. Adipiscing hendrerit cursus et at nunc id natoque vitae mattis vitae. Curabitur tristique laoreet ut ut odio.</p>
+									<p>Asesoramos a nuestros clientes de principio a fin, desde el levantamiento y modelado del negocio, hasta la implementación del sistema.</p>
 								</div><!-- /.col-md-6 -->
 							</div><!-- /.row -->
 
-							<h2>Nuestra estación de trabajo</h2>
+							<h2>Metodología ICONIX</h2>
 							<div class="row">
 								<div class="col-md-12">
-									<em>Leo cursus a nibh Vestibulum interdum sit nisl est lorem augue. Adipiscing hendrerit cursus et at nunc id natoque vitae mattis vitae. Curabitur tristique laoreet ut ut odio Lorem ante Integer tincidunt in. Congue Sed est quis justo pellentesque neque eros dolor eu et. Cras ipsum tempus non Donec ac ut neque sem nisl ut. Pretium magnis nisl nibh purus eu pellentesque Curabitur senectus pellentesque congue. Dui velsenectus dapibus fringilla tortor Nulla laoreet tempus pretium lorem. Vestibulum lacus et nonummy id Nam ut volutpat ipsum sit metus.</em>
+									<em>Es una metodología pesada-ligera de Desarrollo del Software que se halla  entre RUP (Rational Unified Process) y XP (eXtreme Programming), unifica un conjunto de métodos de orientación a objetos con el objetivo de tener un control estricto sobre todo el ciclo de vida del producto a realizar.</em>
 								</div>
 							</div>
 						</section><!-- /.about-us-wrapper -->
@@ -61,9 +61,14 @@
 								    	</div>
 								    	<div class="col-md-6">
 									    	<div class="abt-slider-intro">
-									    		<p>Seamlessly plagiarize professional deliverables before enterprise-wide leadership. Authoritatively transition open-source solutions for client-centered leadership skills. Proactively expedite front-end bandwidth with collaborative leadership.</p>
-
-									    		<p>Seamlessly plagiarize professional deliverables before enterprise-wide leadership. Authoritatively transition open-source solutions for client-centered leadership skills.</p>
+												<br>
+									    		<ul>
+													<li>1. Escuchamos las necesidades del cliente.</li>
+													<li>2. Propuesta del alcance y presupuesto del proyecto.</li>
+													<li>3. Proceso de contratación de acuerdo a los requerimientos de cada cliente.</li>
+													<li>4. Reunión de apertura del proyecto con los responsables de las partes interesadas.</li>
+													<li>5. Levantamiento de información.</li>
+												</ul>
 												<br>
 									    	</div>
 								    	</div>
@@ -77,14 +82,38 @@
 								    	</div>
 								    	<div class="col-md-6">
 									    	<div class="abt-slider-intro">
-									    		<p>Seamlessly plagiarize professional deliverables before enterprise-wide leadership. Authoritatively transition open-source solutions for client-centered leadership skills. Proactively expedite front-end bandwidth with collaborative leadership.</p>
-
-									    		<p>Seamlessly plagiarize professional deliverables before enterprise-wide leadership. Authoritatively transition open-source solutions for client-centered leadership skills.</p>
-												<br>
+									    		<ul>
+													<br>
+													<li> 6. Definición y prototipo de la herramienta.</li>
+													<li> 7. Definición del cronograma ajustado del proyecto con reuniones de seguimiento.</li>
+													<li> 8. Diseño de la base de datos y su diccionario de datos.</li>
+													<li> 9. Implementación del sistema por módulos.</li>
+													<li> 10. Pruebas preliminares.</li>
+												</ul><br>
 									    	</div>
 								    	</div>
 								    </div>
 							    </div><!-- /.item -->
+								  <div class="item">
+									  <div class="row">
+										  <div class="col-md-6">
+											  <img class="img-responsive" src="estilos/img/abt-slider3.jpg" alt="">
+										  </div>
+										  <div class="col-md-6">
+											  <div class="abt-slider-intro">
+												  <ul>
+													  <br>
+													 <li> 11. Implementación de cambios y correcciones.</li>
+													 <li> 12. Pruebas finales.</li>
+													 <li> 13. Manual de instalación, usuario y documentos de soporte.</li>
+													 <li> 14. Instalación de la herramienta de acuerdo a los requisitos del cliente.</li>
+													 <li> 15. Capacitaciones a los usuarios e interesados.</li>
+													 <li> 16. Garantía y servicio post venta.</li>
+												  </ul><br>
+											  </div>
+										  </div>
+									  </div>
+								  </div><!-- /.item -->
 							  </div><!-- /.carousel-inner -->
 
 							  <!-- Controls -->
@@ -217,8 +246,7 @@
 							<h2 class="section-title">Unete a nuestro equipo</h2>
 							<div class="row">
 								<div class="col-sm-8">
-									<p>Conveniently incentivize intermandated manufactured products via interactive best practices. Quickly disintermediate low-risk high-yield portals through distributed services. Professionally conceptualize distinctive technologies before flexible ROI. Enthusiastically mesh prospective markets for emerging web-readiness. Objectively morph B2B vortals and enabled ideas.</p>
-									<p>Professionally implement B2B catalysts for change through efficient services. Quickly architect synergistic expertise before maintainable ROI.</p>
+									<p>Trabaja en DTMowed <br> Ingeniero en Sistemas PERFIL REQUERIDO: <br> Género: Indistinto Formación Académica: Titulado En Ingeniería En Sistemas, Computación Y Afines Experiencia 1 año en adelante , manejando varias áreas o funcionalidades del área de TI. </p>
 								</div>
 								<div class="col-sm-4">
 									
@@ -237,9 +265,9 @@
 						<section class="download-box-wrapper">
 							<div class="download-box">
 								<ul class="list-inline">
-									<li><a href="#">Company Profile <span>Download</span></a></li>
-									<li><a href="#">Annual Report <span>Download</span></a></li>
-									<li><a href="#">Corporate Brochure <span>Download</span></a></li>
+									<li><a target="_blank" href="https://www.facebook.com/MULTISEREC/">MULTISEREC DEL ECUADOR<span> Contactarse </span></a></li>
+									<li><a target="_blank" href="https://www.facebook.com/La-Choza-154672505394313/">ORGANIZACIÓN LA CHOZA <span> Contactarse </span></a></li>
+									<li><a target="_blank" href="#">DISTRIBUIDORA BUSSINES ZONE <span> Contactarse </span></a></li>
 								</ul>
 							</div>
 						</section>
