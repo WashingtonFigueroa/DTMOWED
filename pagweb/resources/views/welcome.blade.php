@@ -8,7 +8,6 @@
             <div class="st-content-inner">
                 @include ('component.header')
 
-
                 <div id="x-corp-carousel" class="carousel slide hero-slide" data-ride="carousel">
                     <!-- Indicators -->
                     <ol class="carousel-indicators">
@@ -21,7 +20,12 @@
                         <div class="item active">
                             <img src="estilos/img/slider-1.jpg" alt="Hero Slide">
                             <!--Slide Image-->
-
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
                             <div class="container">
                                 <div class="carousel-caption">
                                     <h1 class="animated lightSpeedIn">Desarrolladores Tecnológicos</h1>
@@ -418,13 +422,13 @@
 
 
                         <section class="trusted-client-wrapper">
-                            <h2 class="section-title wow fadeInDown">PARTNER DT MOWED</h2>
+                            <h2 class="section-title wow fadeInDown">PARTNERS DT MOWED</h2>
                             <div class="row">
                                 <div class="col-sm-12 text-center experiance-tab-content wow fadeInLeft">
                                     <ul class="partner-logo">
-                                        <li class="wow zoomIn"><a href="#"> <img src="estilos/img/partner/partner-logo-1.png" class="rounded mx-auto d-block" alt=""></a></li>
-                                        <li class="wow zoomIn"><a href="#"><img src="estilos/img/partner/partner-logo-2.png" class="rounded mx-auto d-block" alt=""></a></li>
-                                        <li class="wow zoomIn"><a href="#"><img src="estilos/img/partner/partner-logo-3.png" class="rounded rounded float-right" alt=""></a></li>
+                                        <li class="wow zoomIn"><a href="https://www.facebook.com/MULTISEREC/" target="_blank"> <img src="estilos/img/partner/partner-logo-1.png" class="rounded mx-auto d-block" alt=""></a></li>
+                                        <li class="wow zoomIn"><a href="https://www.facebook.com/La-Choza-154672505394313/" target="_blank"><img src="estilos/img/partner/partner-logo-2.png" class="rounded mx-auto d-block" alt=""></a></li>
+                                        <li class="wow zoomIn"><a href="#" target="_blank"><img src="estilos/img/partner/partner-logo-3.png" class="rounded rounded float-right" alt=""></a></li>
                                     </ul>
                                </div>
                             </div>
