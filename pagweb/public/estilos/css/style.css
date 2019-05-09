@@ -1131,9 +1131,14 @@ ABOUT US PAGE
     color: #6d6d6d;
 }
 
+.about-us-wrapper .section-title{
+    color : #202020;
+}
+
 
 .team-wrapper {
     padding: 60px;
+    margin-top: -70px !important;
 }
 .team-wrapper .section-title{
     color : #202020;
