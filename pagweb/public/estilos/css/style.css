@@ -2549,3 +2549,74 @@ li.dropdown.menu-animating > .submenu-sub-wrapper {
     text-align: center;
     top: 65%;
 }
+
+
+ul#ci {
+    position: absolute;
+    top: 50%;
+    width: 800px;
+    height: 200px; 
+    left: 50%;
+    margin-left: -400px;
+    margin-top: -130px;
+    z-index: 9999;
+}
+
+ ul#ci > li {
+    width: 25%;
+    list-style-type: none;
+    position: absolute;
+    top: 0;
+    padding: 20px;
+    height: 200px; 
+    opacity: 0;
+    padding-top: 40px;
+    text-align: center;
+    transition: 1s opacity; 
+    z-index: 9999;
+}
+
+.active {
+    opacity: 1;
+}
+
+p#cip {
+    font-family: sans-serif;
+    font-size: 13px;
+color: #252627;
+    line-height: 1.5em;
+}
+
+
+.misliderc{
+	margin: auto;
+	overflow: hidden;
+    width: 95%;
+}
+
+.misliderc ul{
+	display: flex;
+	padding: 0;
+	width: 200%;
+
+	animation:cambio 20s infinite;
+	animation-direction:alternate;
+}
+
+.misliderc li{
+	list-style: none;
+	width: 100%;
+}
+
+.misliderc img{
+	width: 100%;
+}
+
+@keyframes cambio{
+	0%{margin-left: 0;}
+	20%{margin-left: 0;}
+
+	50%{margin-left: -100%;}
+	70%{margin-left: -100%;}
+    
+}

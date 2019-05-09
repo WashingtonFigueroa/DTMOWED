@@ -17,7 +17,19 @@
                                 <ul class="nav navbar-nav navbar-right">
                                     <li class=" nav-item {{ request()->is('/')? 'active' :''}}"><a href="/">INICIO</a></li>
                                     <li class=" nav-item {{ request()->is('about-us')? 'active' :''}}"><a href="about-us" >NOSOTROS</a></li>
-                                    <li class=" nav-item {{ request()->is('portafolio')? 'active' :''}}"><a href="portafolio" >PROYECTOS</a></li>
+                                    <li class=" dropdown nav-item {{ request()->is('portafolio')? 'active' :''}} 
+                                    {{ request()->is('ds')? 'active' :''}} {{ request()->is('mercadotecnia')? 'active' :''}} 
+                                    {{ request()->is('capacitacion')? 'active' :''}}"><a href="#" >SERVICIOS</a>
+                                    <div class="submenu-wrapper submenu-wrapper-topbottom">
+											<div class="submenu-inner  submenu-inner-topbottom">
+												<ul class="dropdown-menu">
+													<li><a href="ds">Desarrollo de Software</a></li>
+													<!--<li><a href="mercadotecnia">Mercadotecnia</a></li>-->
+													<li><a href="capacitacion">Capacitaciones</a></li>
+                                                    <!--<li><a href="portafolio">Portafolio</a></li>-->
+												</ul>
+											</div><!-- /.submenu-inner -->
+										</div></li>
                                     <li class=" nav-item {{ request()->is('contact')? 'active' :''}}"><a href="contact">CONTÁCTENOS</a></li>
                                 </ul>
                             </div><!-- /.navbar-collapse -->

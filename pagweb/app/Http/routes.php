@@ -12,5 +12,13 @@ Route::get('/contact', function () {
 Route::get('/portafolio', function () {
     return view('portafolio');
 });
-
+Route::get('/ds', function () {
+    return view('ds');
+});
+Route::get('/mercadotecnia', function () {
+    return view('mercadotecnia');
+});
+Route::get('/capacitacion', function () {
+    return view('capacitacion');
+});
 Route::post('comentarios','comentarioController@enviaremail');

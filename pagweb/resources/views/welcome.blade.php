@@ -105,18 +105,13 @@
                             <div class="row"> 
                                 <div class="col-lg-6 col-md-8">
                                     <h2 class="wow fadeInDown">Bienvenido a DT MOWED</h2>
-                                    <p class="wow fadeInDown">Desarrolladores Tecnológicos</p>
-
                                     <h3 class="wow fadeInDown">Sobre nuestra compañía</h3>
-                                    <p class="wow fadeInDown">Se forma a finales del 2014, con un equipo de profesionales del área de desarrollo de sistemas y sitios web. Actualmente, contamos con más de 4 años de experiencia, tiempo en el cual nos hemos convertido en una reconocida empresa en el medio; Nuestra filosofía única nos ha convertido en la mejor opción para clientes de todo tipo que buscan relaciones a largo plazo y les gusta hacer bien las cosas.</p>
-
-                                    <ul class="check-square">
-                                        <li>Planificación y análisis de Sistemas Informaticos.</li>
-                                        <li>Desarrollo y venta de software.</li>
-                                        <li>Tutorías Online.</li>
-                                        <li>Mercadotecnia.</li>
-                                        <li>Tienda de artículos.</li>
-                                    </ul> </br>
+                                    <p class="wow fadeInDown" align="justify">Desarrolladores Tecnológicos MOWED es una empresa legalmente registrada en la 
+                                    superintendencia de compañías del Ecuador con una existencia aproximada de 4 años en el mercado que nació 
+                                    con la necesidad de cubrir una demanda insatisfecha en el mercado regional de profesionales que practiquen 
+                                    y mantengan una actualización constante de lenguajes informáticos que permitan el buen desarrollo web 
+                                    (sistemas, app, entre otras) que puedan contribuir en la optimización de recursos de todo tipo de 
+                                    empresas de nuestra región.</p>
 
                                     <a class="btn btn-primary wow fadeInDown" href="about-us" role="button">Leer más</a>
                                 </div>
@@ -422,9 +417,11 @@
                             <div class="row">
                                 <div class="col-sm-12 text-center experiance-tab-content wow fadeInLeft">
                                     <ul class="partner-logo">
-                                        <li class="wow zoomIn"><a href="#"> <img src="estilos/img/partner/partner-logo-1.png" class="rounded mx-auto d-block" alt=""></a></li>
+                                        <li class="wow zoomIn"><a href="#"> <img src="estilos/img/partner/partner-logo-4.png" class="rounded mx-auto d-block" alt=""></a></li>
                                         <li class="wow zoomIn"><a href="#"><img src="estilos/img/partner/partner-logo-2.png" class="rounded mx-auto d-block" alt=""></a></li>
-                                        <li class="wow zoomIn"><a href="#"><img src="estilos/img/partner/partner-logo-3.png" class="rounded rounded float-right" alt=""></a></li>
+                                        <li class="wow zoomIn"><a href="#"><img src="estilos/img/partner/partner-logo-5.png" class="rounded rounded float-right" alt=""></a></li>
+                                        <li class="wow zoomIn"><a href="#"><img src="estilos/img/partner/partner-logo-6.png" class="rounded mx-auto d-block" alt=""></a></li>
+                                        <li class="wow zoomIn"><a href="#"><img src="estilos/img/partner/partner-logo-7.png" class="rounded mx-auto d-block" alt=""></a></li>
                                     </ul>
                                </div>
                             </div>

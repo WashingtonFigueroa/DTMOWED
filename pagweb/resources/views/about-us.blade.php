@@ -28,24 +28,60 @@
 					<div class="content-wrapper">
 						<section class="about-us-wrapper">
 							<h2>Sobre Nosotros</h2>
-							<div class="row margin-bottom-60"> 
-								<div class="col-md-6">
-									<p>Somos una empresa Ecuatoria dedicada al desarrollo de software de alta calidad, brindando una excelente atención a nuestros clientes y con un alto compromiso en los tiempos de entrega de nuestros proyectos.</p>
-
-									<p>Acumulamos 4 años de experiencia, trabajando con empresas de diferentes sectores, desarrollando sistemas de información en las áreas de ventas y marketing, producción, finanzas, contabilidad y recursos humanos.</p>
-								</div><!-- /.col-md-6 -->
-
-								<div class="col-md-6">
-									<p>Brindamos Software a la medida, comercio electrónico, aplicaciones en facebook, web móvil, diseño e imagen corporativa, soporte y mantenimiento son los principales servicios que ofrecemos a nuestros clientes.</p>
-
-									<p>Asesoramos a nuestros clientes de principio a fin, desde el levantamiento y modelado del negocio, hasta la implementación del sistema.</p>
-								</div><!-- /.col-md-6 -->
+							<div class="row"> 
+									<p align="justify">Desarrolladores Tecnológicos MOWED es una empresa legalmente registrada en la superintendencia de 
+									compañías del Ecuador con una existencia aproximada de 4 años en el mercado que nació con la necesidad de cubrir una 
+									demanda insatisfecha en el mercado regional de profesionales que practiquen y mantengan una actualización constante de 
+									lenguajes informáticos que permitan el buen desarrollo web (sistemas, app, entre otras) que puedan contribuir en la 
+									optimización de recursos de todo tipo de empresas de nuestra región, apostando siempre al desarrollo local, nacional 
+									e internacional, por tal razón contamos con profesionales altamente capacitados con estudios nacionales e internacionales 
+									que permitan mantener una actualización constante del conocimiento informático y tecnológico manteniendo como legado 
+									la satisfacción de todos los requerimientos de nuestros clientes, adicional a esto somos una empresa dedicada a la 
+									comercialización y distribución de productos informáticos, servicio técnico, mantenimiento de equipos y consultoría 
+									de sistemas informáticos. Ofreciendo una solución global a empresas, profesionales, administraciones y usuarios 
+									particulares, a todo el territorio.</p>
 							</div><!-- /.row -->
-
+							<div class="row">
+							<div class="col-md-6">
+								<h3>Misión</h3>
+								<p align="justify">Ser una empresa innovadora y con gran sentido de responsabilidad social conformada por un equipo 
+								de profesionales comprometidos con el aprendizaje constante en cuanto a la tecnología y sus requerimientos, que busca 
+								el máximo beneficio de nuestros clientes a través de la calidad de nuestras soluciones, productos y servicio con el 
+								afán de optimizar recursos en sus empresas.</p>
+							</div>
+							<div class="col-md-6">
+								<h3>Visión</h3>
+								<p align="justify">Ser un aliado estratégico para nuestros clientes basados en soluciones y servicios innovadores 
+								sobre la base de nuestra responsabilidad, calidad, productividad y compromiso.</p>
+							</div>
+							</div>
+							<div class="row">
+							<div class="col-md-6">
+								<h3>Nuestra Política</h3>
+								<p align="justify">Nuestra política de calidad está basada en nuestro firme compromiso con los CLIENTES de satisfacer 
+								plenamente sus requerimientos y expectativas, a través de la actualización constante de nuestros conocimientos en 
+								cuanto a los lenguajes tecnológicos se refiere, garantizamos impulsar una cultura de calidad basada en los principios 
+								de honestidad, Liderazgo y desarrollo del recurso humano, solidaridad, compromiso de mejora y Seguridad en nuestras 
+								operaciones.</p>
+							</div>
+							<div class="col-md-6">
+								<h3>Nuestros Valores</h3>
+									<ul class="check-square">
+										<li>Integridad</li>
+										<li>Responsabilidad</li>
+										<li>Espíritu de Equipo</li>
+										<li>Respeto Mutuo</li>
+										<li>Superación Continua</li>
+										<li>Vocación de Servicio</li>
+									</ul> 
+							</div>
+							</div>
 							<h2>Metodología ICONIX</h2>
 							<div class="row">
 								<div class="col-md-12">
-									<em>Es una metodología pesada-ligera de Desarrollo del Software que se halla  entre RUP (Rational Unified Process) y XP (eXtreme Programming), unifica un conjunto de métodos de orientación a objetos con el objetivo de tener un control estricto sobre todo el ciclo de vida del producto a realizar.</em>
+									<em>Es una metodología pesada-ligera de Desarrollo del Software que se halla  entre RUP (Rational Unified 
+									Process) y XP (eXtreme Programming), unifica un conjunto de métodos de orientación a objetos con el objetivo 
+									de tener un control estricto sobre todo el ciclo de vida del producto a realizar.</em>
 								</div>
 							</div>
 						</section><!-- /.about-us-wrapper -->
@@ -265,9 +301,9 @@
 						<section class="download-box-wrapper">
 							<div class="download-box">
 								<ul class="list-inline">
-									<li><a target="_blank" href="https://www.facebook.com/MULTISEREC/">MULTISEREC DEL ECUADOR<span> Contactarse </span></a></li>
-									<li><a target="_blank" href="https://www.facebook.com/La-Choza-154672505394313/">ORGANIZACIÓN LA CHOZA <span> Contactarse </span></a></li>
-									<li><a target="_blank" href="#">DISTRIBUIDORA BUSSINES ZONE <span> Contactarse </span></a></li>
+									<li><a target="_blank" href="ds">DESARROLLO DE SOFTWARE <span> Visitar </span></a></li>
+									<li><a target="_blank" href="mercadotecnia">MERCADOTECNIA <span> Visitar </span></a></li>
+									<li><a target="_blank" href="capacitacion">CAPACITACIONES <span> Visitar </span></a></li>
 								</ul>
 							</div>
 						</section>

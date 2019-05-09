@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
-@include ('component.head')  
+@include ('component.head')   
 <body>
 <div id="st-container" class="st-container">
     <div class="st-pusher">
@@ -13,11 +13,11 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="page-header">
-                                    <h1>Portafolio de Proyectos</h1>
+                                    <h1>Mercadotecnia</h1>
                                 </div>
                                 <ol class="breadcrumb">
                                     <li><a href="estilos/#">Inicio</a></li>
-                                    <li class="active">Portafolio</li>
+                                    <li class="active">Mercadotecnia</li>
                                 </ol>
                             </div>
                         </div><!-- /.row -->
@@ -27,6 +27,7 @@
                 <div class="container">
                     <div class="content-wrapper">
                         <div class="inner-content">
+                        <h3>Mercadotecnia</h3>
                             <ul class="list-inline" id="filter">
                                 <li><a class="active" data-group="all">Todos</a></li>
                                 <li><a data-group="red">Software</a></li>

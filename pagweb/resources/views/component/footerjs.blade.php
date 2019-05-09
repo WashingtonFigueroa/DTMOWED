@@ -31,3 +31,5 @@
 		<script src="estilos/js/jquery.shuffle.min.js"></script>
 	    <!-- Custom Script -->
 	    <script src="estilos/js/scripts.js"></script>
+		<!-- Mi carrusel -->
+		<script src="estilos/js/carrusel.js"></script>
