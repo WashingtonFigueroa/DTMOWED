@@ -44,7 +44,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="copyright wow fadeInDown">
-                                    <p>Copyright ©2014-2018 DTE All Rights Reserved. Designed by <a href="http://dte-ecuador.org/">dte-ecuador.org</a> </p>
+                                    <p>Copyright ©2019 DTE All Rights Reserved. Designed by <a href="http://dtmowed.org/">dtmowed.org</a> </p>
                                 </div><!-- /.copyright -->
                             </div><!-- /.col-md-12 -->
                         </div><!-- /.row -->

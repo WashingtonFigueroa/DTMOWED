@@ -5,7 +5,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <link rel="shortcut icon" type="image/x-icon" href="estilos/img/favicon.ico" />
+    <link rel="shortcut icon" type="image/x-icon" href="estilos/img/logo.ico" />
 
     <title>DT MOWED</title>
     <!-- Web Fonts -->
@@ -24,7 +24,6 @@
     <!-- magnific-popup -->
     <link href="estilos/css/magnific-popup.css" rel="stylesheet">
 	<!-- REVOLUTION BANNER CSS SETTINGS -->
-	<link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css" media="screen" />
     <!-- Bootstrap Core CSS -->
     <link href="estilos/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
@@ -39,5 +38,4 @@
 	    <script src="estilos/js/vendor/html5shim.js"></script>
 	    <script src="estilos/js/vendor/respond.min.js"></script>
     <![endif]-->
-    <script src="estilos/js/carrusel.js"></script>
 	</head>

@@ -76,8 +76,7 @@
 							</div>
 							<div class="contact-us-form">
 								<h2>Déjanos un mensaje</h2>
-								<form method="post" action="{{url('comentarios')}}">
-									{{ csrf_field() }}
+								<form method="post" action="" id="contactForm">
 									<div class="row">
 										<div class="col-md-6">
 										  <div class="input-group">

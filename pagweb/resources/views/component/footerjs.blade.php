@@ -13,8 +13,6 @@
 	    <!-- wow.min.js -->
 	    <script src="estilos/js/wow.min.js"></script>
 		<!-- jQuery REVOLUTION Slider  -->
-		<script type="text/javascript" src="estilos/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
-		<script type="text/javascript" src="estilos/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
 	    <!-- owl-carousel -->
 	    <script src="estilos/owl-carousel/owl.carousel.min.js"></script>
 	    <!-- smoothscroll -->
@@ -32,4 +30,3 @@
 	    <!-- Custom Script -->
 	    <script src="estilos/js/scripts.js"></script>
 		<!-- Mi carrusel -->
-		<script src="estilos/js/carrusel.js"></script>

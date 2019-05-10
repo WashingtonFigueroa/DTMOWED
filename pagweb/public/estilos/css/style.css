@@ -1250,7 +1250,7 @@ ul.joblist-link li a:hover{
 
 
 .download-box-wrapper {
-    background: url('../img/about-bottom.jpg') no-repeat center center;
+    /* background: url('../img/about-bottom.jpg') no-repeat center center; */
     background-size: cover;
     padding: 60px;
 }
