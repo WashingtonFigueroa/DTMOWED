@@ -8,11 +8,11 @@
     <title>Document</title>
 </head>
 <body>
-<p><strong>Nombre:</strong>{!! $name !!}</p>
-<p><strong>Correo:</strong>{!! $email !!}</p>
-<p><strong>Telefono:</strong>{!! $phone !!}</p>
-<p><strong>Asunto:</strong>{!! $subject !!}</p>
-<p><strong>Mensaje:</strong>{!! $message !!}</p>
+<p><strong>Nombre: </strong>{!! $name !!}</p>
+<p><strong>Correo: </strong>{!! $email !!}</p>
+<p><strong>Telefono: </strong>{!! $phone !!}</p>
+<p><strong>Asunto: </strong>{!! $subject !!}</p>
+<p><strong>Mensaje: </strong>{!! $message !!}</p>
 
 </body>
 </html>

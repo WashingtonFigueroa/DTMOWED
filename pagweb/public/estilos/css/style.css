@@ -5,6 +5,10 @@ Version: 1.0
 Author: Cloud Software Solution Ltd.
 */
 
+body {
+  width: 100%;
+  height: 100%;
+}
 
 body {
     font-family: "Roboto", sans-serif;
@@ -2555,44 +2559,7 @@ li.dropdown.menu-animating > .submenu-sub-wrapper {
     top: 65%;
 }
 
-
-ul#ci {
-    position: absolute;
-    top: 50%;
-    width: 800px;
-    height: 200px; 
-    left: 50%;
-    margin-left: -400px;
-    margin-top: -130px;
-    z-index: 9999;
-}
-
- ul#ci > li {
-    width: 25%;
-    list-style-type: none;
-    position: absolute;
-    top: 0;
-    padding: 20px;
-    height: 200px; 
-    opacity: 0;
-    padding-top: 40px;
-    text-align: center;
-    transition: 1s opacity; 
-    z-index: 9999;
-}
-
-.active {
-    opacity: 1;
-}
-
-p#cip {
-    font-family: sans-serif;
-    font-size: 13px;
-color: #252627;
-    line-height: 1.5em;
-}
-
-
+/* Slider Cursos */
 .misliderc{
 	margin: auto;
 	overflow: hidden;
@@ -2624,4 +2591,35 @@ color: #252627;
 	50%{margin-left: -100%;}
 	70%{margin-left: -100%;}
     
+}
+
+/* Slider Partners */
+
+ul#c {
+    position: relative;
+    top: 50%;
+    width: 800px;
+    height: 200px; 
+    left: 50%;
+    margin-left: -400px;
+    margin-top: 0px;
+    z-index: 9999;
+}
+
+.iac {
+    width: 25%;
+    list-style-type: none;
+    position: absolute;
+    top: 0;
+    padding: 20px;
+    height: 200px; 
+    opacity: 0;
+    padding-top: 10px;
+    text-align: center;
+    z-index: 9999;
+    transition: 1s opacity; 
+}
+
+.active {
+    opacity: 1;
 }

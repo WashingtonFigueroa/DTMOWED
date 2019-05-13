@@ -192,9 +192,9 @@
 
                                     <div class="col-md-4">
                                         <div class="single-portfolio">
-                                            <img src="estilos/img/work/portfolio-9.jpg" alt="">
+                                            <img src="estilos/img/work/portfolio-10.jpg" alt="">
                                             <div class="portfolio-links">
-                                                <a class="image-link" href="estilos/img/work/portfolio-9.jpg"><i class="fa fa-search-plus"></i></a>
+                                                <a class="image-link" href="estilos/img/work/portfolio-10.jpg"><i class="fa fa-search-plus"></i></a>
                                                 <a href="http://demo.coatlfact.com/#/" target="_blank"><i class="fa fa-link"></i></a>
                                             </div><!-- /.links -->
                                         </div><!-- /.single-portfolio -->
@@ -207,9 +207,9 @@
                                 <h4>Gestión de Eventos</h4>
                                     <div class="col-md-4">
                                         <div class="single-portfolio">
-                                            <img src="estilos/img/work/portfolio-12.jpg" alt="">
+                                            <img src="estilos/img/work/portfolio-13.jpg" alt="">
                                             <div class="portfolio-links">
-                                                <a class="image-link" href="estilos/img/work/portfolio-12.jpg"><i class="fa fa-search-plus"></i></a>
+                                                <a class="image-link" href="estilos/img/work/portfolio-13.jpg"><i class="fa fa-search-plus"></i></a>
                                                 <a href="http://demo.coatlfact.com/#/" target="_blank"><i class="fa fa-link"></i></a>
                                             </div><!-- /.links -->
                                         </div><!-- /.single-portfolio -->

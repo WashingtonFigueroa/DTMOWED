@@ -30,3 +30,4 @@
 	    <!-- Custom Script -->
 	    <script src="estilos/js/scripts.js"></script>
 		<!-- Mi carrusel -->
+	    <script src="estilos/js/carruselP.js"></script>

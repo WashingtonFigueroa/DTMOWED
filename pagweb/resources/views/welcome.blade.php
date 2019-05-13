@@ -415,13 +415,24 @@
                         <section class="trusted-client-wrapper">
                             <h2 class="section-title wow fadeInDown">PARTNER DT MOWED</h2>
                             <div class="row">
-                                <div class="col-sm-12 text-center experiance-tab-content wow fadeInLeft">
-                                    <ul class="partner-logo">
-                                        <li class="wow zoomIn"><a href="#"> <img src="estilos/img/partner/partner-logo-4.png" class="rounded mx-auto d-block" alt=""></a></li>
-                                        <li class="wow zoomIn"><a href="#"><img src="estilos/img/partner/partner-logo-2.png" class="rounded mx-auto d-block" alt=""></a></li>
-                                        <li class="wow zoomIn"><a href="#"><img src="estilos/img/partner/partner-logo-5.png" class="rounded rounded float-right" alt=""></a></li>
-                                        <li class="wow zoomIn"><a href="#"><img src="estilos/img/partner/partner-logo-6.png" class="rounded mx-auto d-block" alt=""></a></li>
-                                        <li class="wow zoomIn"><a href="#"><img src="estilos/img/partner/partner-logo-7.png" class="rounded mx-auto d-block" alt=""></a></li>
+                                <div class="col-sm-12 text-center experiance-tab-content wow fadeInDown">
+                                    <ul id="c"> 
+		
+                                        <li class="iac"><img src="estilos/img/partner/partner-logo-1.png" alt=""><p></p></li>
+                                        <li class="iac"><img src="estilos/img/partner/partner-logo-2.png" alt=""><p></p></li>
+                                        <li class="iac"><img src="estilos/img/partner/partner-logo-3.png" alt=""><p></p></li>
+                                        <li class="iac"><img src="estilos/img/partner/partner-logo-4.png" alt=""><p></p></li>
+
+                                        <li class="iac"><img src="estilos/img/partner/partner-logo-5.png" alt=""><p></p></li>
+                                        <li class="iac"><img src="estilos/img/partner/partner-logo-6.png" alt=""><p></p></li>
+                                        <li class="iac"><img src="estilos/img/partner/partner-logo-7.png" alt=""><p></p></li>
+                                        <li class="iac"><img src="estilos/img/partner/partner-logo-8.png" alt=""><p></p></li>
+
+                                        <!-- <li class="iac"><img src="estilos/img/partner/partner-logo-6.png" alt=""><p>FEPP</p></li>
+                                        <li class="iac"><img src="estilos/img/partner/partner-logo-7.png" alt=""><p>FEPP</p></li>
+                                        <li class="iac"><img src="estilos/img/partner/partner-logo-8.png" alt=""><p>FEPP</p></li>
+                                        <li class="iac"><img src="estilos/img/partner/partner-logo-4.png" alt=""><p>FEPP</p></li>
+ -->
                                     </ul>
                                </div>
                             </div>
