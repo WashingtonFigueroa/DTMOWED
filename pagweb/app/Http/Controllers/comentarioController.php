@@ -11,12 +11,13 @@ use Redirect;
 
 class ComentarioController extends Controller
 {
-    public function enviaremail(){
+    public function  enviaremail(){
         $datos = \request()->all();
         Mail::send('email',$datos, function ($message) {
             $message->subject('DT MOWED WEB');
-            $message->to('liwa.meraki@gmail.com');
+            $message->to('dtmowed@gmail.com');
         });
         return Redirect::to('/');
     }
+
 }

@@ -302,7 +302,7 @@
 
                                                 <h4>PYMES / ENTERPRISE</h4>
 
-                                                <a class="btn btn-primary" href="#" role="button">Leer más</a>
+                                                <a class="btn btn-primary" href="ds" role="button">Leer más</a>
                                             </div><!-- /.handover-project -->
                                         </div><!-- /.col-md-6 -->
                                     </div><!-- /.row -->
@@ -322,7 +322,7 @@
 
                                                 <h4>AUTÓNOMO / PYMES</h4>
 
-                                                <a class="btn btn-primary" href="#" role="button">Leer más</a>
+                                                <a class="btn btn-primary" href="ds" role="button">Leer más</a>
                                             </div><!-- /.handover-project -->
                                         </div><!-- /.col-md-6 -->   
                                     </div><!-- /.row -->
@@ -340,7 +340,7 @@
                                                 <h3>WEB GRIFTEACH</h3>
                                                 <p>Sistema de Administarción para las JAAP: Gestión integral para las Comunidades, permitiendo a los usuarios gestionar y administrar fácilmente el trabajo diario en una comunidad.</p>
 
-                                                <a class="btn btn-primary" href="#" role="button">Leer más</a>
+                                                <a class="btn btn-primary" href="ds" role="button">Leer más</a>
                                             </div><!-- /.handover-project -->
                                         </div><!-- /.col-md-6 -->
                                     </div><!-- /.row -->
@@ -413,26 +413,26 @@
 
 
                         <section class="trusted-client-wrapper">
-                            <h2 class="section-title wow fadeInDown">PARTNER DT MOWED</h2>
+                            <h2 class="section-title wow fadeInDown">Partner DT MOWED</h2>
                             <div class="row">
                                 <div class="col-sm-12 text-center experiance-tab-content wow fadeInDown">
                                     <ul id="c"> 
 		
-                                        <li class="iac"><img src="estilos/img/partner/partner-logo-1.png" alt=""><p></p></li>
-                                        <li class="iac"><img src="estilos/img/partner/partner-logo-2.png" alt=""><p></p></li>
-                                        <li class="iac"><img src="estilos/img/partner/partner-logo-3.png" alt=""><p></p></li>
-                                        <li class="iac"><img src="estilos/img/partner/partner-logo-4.png" alt=""><p></p></li>
+                                        <li class="iac"><img src="estilos/img/partner/1.png" alt=""><p></p></li>
+                                        <li class="iac"><img src="estilos/img/partner/2.png" alt=""><p></p></li>
+                                        <li class="iac"><img src="estilos/img/partner/3.png" alt=""><p></p></li>
+                                        <li class="iac"><img src="estilos/img/partner/4.png" alt=""><p></p></li>
 
-                                        <li class="iac"><img src="estilos/img/partner/partner-logo-5.png" alt=""><p></p></li>
-                                        <li class="iac"><img src="estilos/img/partner/partner-logo-6.png" alt=""><p></p></li>
-                                        <li class="iac"><img src="estilos/img/partner/partner-logo-7.png" alt=""><p></p></li>
-                                        <li class="iac"><img src="estilos/img/partner/partner-logo-8.png" alt=""><p></p></li>
+                                        <li class="iac"><img src="estilos/img/partner/5.png" alt=""><p></p></li>
+                                        <li class="iac"><img src="estilos/img/partner/6.png" alt=""><p></p></li>
+                                        <li class="iac"><img src="estilos/img/partner/7.png" alt=""><p></p></li>
+                                        <li class="iac"><img src="estilos/img/partner/8.png" alt=""><p></p></li>
 
-                                        <!-- <li class="iac"><img src="estilos/img/partner/partner-logo-6.png" alt=""><p>FEPP</p></li>
-                                        <li class="iac"><img src="estilos/img/partner/partner-logo-7.png" alt=""><p>FEPP</p></li>
-                                        <li class="iac"><img src="estilos/img/partner/partner-logo-8.png" alt=""><p>FEPP</p></li>
-                                        <li class="iac"><img src="estilos/img/partner/partner-logo-4.png" alt=""><p>FEPP</p></li>
- -->
+                                        <li class="iac"><img src="estilos/img/partner/9.png" alt=""><p></p></li>
+                                        <li class="iac"><img src="estilos/img/partner/10.png" alt=""><p></p></li>
+                                        <li class="iac"><img src="estilos/img/partner/11.png" alt=""><p></p></li>
+                                        <li class="iac"><img src="estilos/img/partner/12.png" alt=""><p></p></li>
+
                                     </ul>
                                </div>
                             </div>

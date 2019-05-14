@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28df6d0f-bfd2-4b68-87fb-df3dc143cdd4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pagweb/app/Http/Controllers/comentarioController.php" beforeDir="false" afterPath="$PROJECT_DIR$/pagweb/app/Http/Controllers/comentarioController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagweb/app/Http/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/pagweb/app/Http/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/email-templates/simple.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/intro-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pagweb/public/estilos/img/intro-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/partner/partner-logo-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/partner/partner-logo-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/partner/partner-logo-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/partner/partner-logo-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/partner/partner-logo-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/partner/partner-logo-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/partner/partner-logo-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/partner/partner-logo-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/partner/partner-logo-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/slider-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pagweb/public/estilos/img/slider-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/support-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pagweb/public/estilos/img/support-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/sendemail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagweb/public/mailoutput/mail-20190513-2036-576000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagweb/resources/views/about-us.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/pagweb/resources/views/about-us.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagweb/resources/views/component/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/pagweb/resources/views/component/footer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagweb/resources/views/contact.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/pagweb/resources/views/contact.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagweb/resources/views/ds.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/pagweb/resources/views/ds.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagweb/resources/views/email.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/pagweb/resources/views/email.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagweb/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/pagweb/resources/views/welcome.blade.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/pagweb/composer.json</pharConfigPath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2063102992">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="2" />
+          <entry key="env" value="2" />
+          <entry key="example" value="1" />
+          <entry key="md" value="1" />
+          <entry key="php" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key=".env file" value="2" />
+          <entry key="Blade" value="10" />
+          <entry key="CSS" value="2" />
+          <entry key="Markdown" value="1" />
+          <entry key="PHP" value="4" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="6" />
+          <entry key="env" value="24" />
+          <entry key="php" value="192" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key=".env file" value="24" />
+          <entry key="Blade" value="176" />
+          <entry key="CSS" value="6" />
+          <entry key="PHP" value="16" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pagweb/resources/views/contact.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="122" column="65" lean-forward="true" selection-start-line="122" selection-start-column="65" selection-end-line="122" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pagweb/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pagweb/app/Http/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="23" column="59" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pagweb/app/Http/Controllers/comentarioController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="e#40#68#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pagweb/resources/views/email.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>estilos/img/slider-2.jpg</find>
+      <find>sendema</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\wamp64\www\DTMOWED\DTMOWED\pagweb\resources\views</dir>
+      <dir>C:\wamp64\www\DTMOWED\DTMOWED\pagweb</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pagweb/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/pagweb/resources/views/component/footer.blade.php" />
+        <option value="$PROJECT_DIR$/pagweb/public/estilos/css/style.css" />
+        <option value="$PROJECT_DIR$/pagweb/resources/views/about-us.blade.php" />
+        <option value="$PROJECT_DIR$/pagweb/resources/views/ds.blade.php" />
+        <option value="$PROJECT_DIR$/pagweb/.env" />
+        <option value="$PROJECT_DIR$/pagweb/public/estilos/sendemail.php" />
+        <option value="$PROJECT_DIR$/pagweb/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/pagweb/resources/views/contact.blade.php" />
+        <option value="$PROJECT_DIR$/pagweb/resources/views/email.blade.php" />
+        <option value="$PROJECT_DIR$/pagweb/app/Http/Controllers/comentarioController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/pagweb/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/pagweb/vendor/composer" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/classpreloader/classpreloader" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/jeremeamia/SuperClosure" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/pagweb/vendor/psy/psysh" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="593" />
+    <option name="y" value="129" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DTMOWED" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DTMOWED" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DTMOWED" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DTMOWED" type="462c0819:PsiDirectoryNode" />
+              <item name="pagweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DTMOWED" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DTMOWED" type="462c0819:PsiDirectoryNode" />
+              <item name="pagweb" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DTMOWED" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DTMOWED" type="462c0819:PsiDirectoryNode" />
+              <item name="pagweb" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="estilos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DTMOWED" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DTMOWED" type="462c0819:PsiDirectoryNode" />
+              <item name="pagweb" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DTMOWED" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DTMOWED" type="462c0819:PsiDirectoryNode" />
+              <item name="pagweb" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="comentarioController&#9;FILE&#9;file://C:/wamp64/www/DTMOWED/DTMOWED/pagweb/app/Http/Controllers/comentarioController.php" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28df6d0f-bfd2-4b68-87fb-df3dc143cdd4" name="Default Changelist" comment="" />
+      <created>1557793088280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557793088280</updated>
+      <workItem from="1557793089844" duration="10247000" />
+      <workItem from="1557841880756" duration="2818000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13065000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15431164" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.50596255" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pagweb/.env.example">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="17" lean-forward="true" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagweb/resources/views/component/head.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-249" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagweb/resources/views/component/header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="25" column="68" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagweb/resources/views/component/footer.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="48" column="134" selection-start-line="48" selection-start-column="134" selection-end-line="48" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagweb/resources/views/about-us.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="303" column="70" lean-forward="true" selection-start-line="303" selection-start-column="70" selection-end-line="303" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagweb/public/estilos/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="1158" column="23" lean-forward="true" selection-start-line="1158" selection-start-column="23" selection-end-line="1158" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagweb/public/estilos/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="4" column="13027" selection-start-line="4" selection-start-column="13027" selection-end-line="4" selection-end-column="13027" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagweb/resources/views/ds.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="60" column="169" lean-forward="true" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="169" />
+          <caret line="102" column="169" selection-start-line="102" selection-start-column="44" selection-end-line="102" selection-end-column="169" />
+          <caret line="146" column="169" selection-start-line="146" selection-start-column="44" selection-end-line="146" selection-end-column="169" />
+          <caret line="189" column="169" selection-start-line="189" selection-start-column="44" selection-end-line="189" selection-end-column="169" />
+          <caret line="231" column="169" selection-start-line="231" selection-start-column="44" selection-end-line="231" selection-end-column="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagweb/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="512" column="40" selection-start-line="512" selection-start-column="40" selection-end-line="512" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagweb/vendor/laravel/framework/src/Illuminate/Queue/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="289">
+            <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagweb/app/User.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagweb/public/estilos/sendemaildelete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagweb/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="59" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagweb/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagweb/resources/views/contact.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="122" column="65" lean-forward="true" selection-start-line="122" selection-start-column="65" selection-end-line="122" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagweb/resources/views/email.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagweb/app/Http/Controllers/comentarioController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

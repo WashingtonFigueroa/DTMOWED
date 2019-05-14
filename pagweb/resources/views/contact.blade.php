@@ -76,46 +76,68 @@
 							</div>
 							<div class="contact-us-form">
 								<h2>Déjanos un mensaje</h2>
-								<form method="post" action="sendemail" id="contactForm">
-									<div class="row">
-										<div class="col-md-6">
-										  <div class="input-group">
-										    <label class="sr-only">Nombre</label>
-										    <span class="input-group-addon" id="basic-addon1"><i class="fa fa-user"></i></span>
-										    <input id="name" name="name" type="text" class="form-control"  required="" placeholder="Nombre">
-										  </div>
+								{{--<form method="post" action="{{url('comentarios')}}">--}}
+									{{--{{ csrf_field() }}--}}
+									{{--<div class="row">--}}
+										{{--<div class="col-md-6">--}}
+										  {{--<div class="input-group">--}}
+										    {{--<label class="sr-only">Nombre</label>--}}
+										    {{--<span class="input-group-addon" id="basic-addon1"><i class="fa fa-user"></i></span>--}}
+										    {{--<input id="name" name="name" type="text" class="form-control"  required="" placeholder="Nombre">--}}
+										  {{--</div>--}}
+										{{--</div>--}}
+										{{--<div class="col-md-6">--}}
+										  {{--<div class="input-group">--}}
+										    {{--<label class="sr-only">Email</label>--}}
+										    {{--<span class="input-group-addon" id="basic-addon2"><i class="fa fa-envelope"></i></span>--}}
+										    {{--<input id="email" name="email" type="email" class="form-control" required="" placeholder="Email">--}}
+										  {{--</div>--}}
+										{{--</div>--}}
+									{{--</div>--}}
+									{{--<div class="row">--}}
+										{{--<div class="col-md-6">--}}
+										  {{--<div class="input-group">--}}
+										    {{--<label class="sr-only">Teléfono</label>--}}
+										    {{--<span class="input-group-addon" id="basic-addon3"><i class="fa fa-phone"></i></span>--}}
+										    {{--<input id="phone" name="phone" type="text" class="form-control" placeholder="Teléfono">--}}
+										  {{--</div>--}}
+										{{--</div>--}}
+										{{--<div class="col-md-6">--}}
+										  {{--<div class="input-group">--}}
+										    {{--<label class="sr-only">Asunto</label>--}}
+										    {{--<span class="input-group-addon" id="basic-addon4"><i class="fa fa-file-text"></i></span>--}}
+										    {{--<input id="subject" name="subject" type="text" class="form-control" required="" placeholder="Asunto">--}}
+										  {{--</div>--}}
+										{{--</div>--}}
+									{{--</div>--}}
+									{{--<div class="input-group text-area">--}}
+										{{--<label class="sr-only">Mensaje</label>--}}
+										{{--<span class="input-group-addon" id="basic-addon5"><i class="fa fa-file-text-o"></i></span>--}}
+										{{--<input name="message"  placeholder="Escribe aquí tu comentario...">--}}
+									{{--</div>--}}
+									{{--<button type="submit" class="btn btn-primary ">Enviar</button>--}}
+									{{--<button type="reset" class="btn btn-info ">Limpiar</button>--}}
+								{{--</form>--}}
+								<form method="post" action="{{url('comentarios')}}">
+									{{ csrf_field() }}
+									<div class="row gtr-uniform">
+										<div class="col-6 col-12-xsmall">
+											<input type="text" name="name" value="" placeholder="Nombre y Apellido" />
 										</div>
-										<div class="col-md-6">
-										  <div class="input-group">
-										    <label class="sr-only">Email</label>
-										    <span class="input-group-addon" id="basic-addon2"><i class="fa fa-envelope"></i></span>
-										    <input id="email" name="email" type="email" class="form-control" required="" placeholder="Email">
-										  </div>
+										<div class="col-6 col-12-xsmall">
+											<input type="email" name="email" value="" placeholder="Email" />
+										</div>
+										<div class="col-12">
+											<textarea name="mensajee"  placeholder="Escribe aquí tu historía o comentario..." rows="6"></textarea>
+										</div>
+										<!-- Break -->
+										<div class="col-12">
+											<ul class="actions">
+												<li><input type="submit" value="Enviar Mensaje" class="primary" /></li>
+												<li><input type="reset" value="Limpiar" /></li>
+											</ul>
 										</div>
 									</div>
-									<div class="row">
-										<div class="col-md-6">
-										  <div class="input-group">
-										    <label class="sr-only">Teléfono</label>
-										    <span class="input-group-addon" id="basic-addon3"><i class="fa fa-phone"></i></span>
-										    <input id="phone" name="phone" type="text" class="form-control" placeholder="Teléfono">
-										  </div>
-										</div>
-										<div class="col-md-6">
-										  <div class="input-group">
-										    <label class="sr-only">Asunto</label>
-										    <span class="input-group-addon" id="basic-addon4"><i class="fa fa-file-text"></i></span>
-										    <input id="subject" name="subject" type="text" class="form-control" required="" placeholder="Asunto">
-										  </div>
-										</div>
-									</div>
-									<div class="input-group text-area">
-										<label class="sr-only">Mensaje</label>
-										<span class="input-group-addon" id="basic-addon5"><i class="fa fa-file-text-o"></i></span>
-										<textarea id="message" name="message" class="form-control" rows="6" required="" placeholder="Mensaje"></textarea>
-									</div>
-									<button type="submit" class="btn btn-primary ">Enviar</button>
-									<button type="reset" class="btn btn-info ">Limpiar</button>
 								</form>
 							</div>
 						</div><!-- /.content-wrapper -->
@@ -125,6 +147,7 @@
 	       	</div> <!-- .st-content-inner -->
 	      </div> <!-- .st-content -->
 	    </div> <!-- .st-pusher -->
+	  </div>
 	    @include ('component.offcanvas')
 		@include ('component.footerjs')
 	</body>

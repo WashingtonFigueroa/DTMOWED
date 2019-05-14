@@ -7,7 +7,6 @@
 	      <div class="st-content">
 	        <div class="st-content-inner">
 			 	@include ('component.header')
-
 				<section class="page-header-wrapper">
 					<div class="container">
 						<div class="row">
@@ -79,140 +78,140 @@
 						</section><!-- /.about-us-wrapper -->
 
 						<section class="team-wrapper">
-							<h2 class="section-title">Nuestro Equipo</h2>
-							<div class="css-team">
-								<div class="row">
-									<div class="col-md-4 col-sm-4 col-xs-12">
-										<figure>
-											<div class="css-team-avatar">
-												<div class="css-overlay"></div>
-												<img class="media-object img-responsive" src="estilos/img/team/tm1.jpg" alt="Image">
-												<a class="readmore" href="#"><i class="flaticon-square57"></i></a>
-											</div>
-											<div class="css-team-info">
-											<h3 class="css-team-heading">Washington Figueroa<br> <small>Ing. Sistemas Computacionales</small></h3>
-											</div>
-										</figure>
-									</div><!-- /.col-md-4 -->
-									<div class="col-md-4 col-sm-4 col-xs-12">
-										<figure>
-											<div class="css-team-avatar">
-												<div class="css-overlay"></div>
-												<img class="media-object img-responsive" src="estilos/img/team/tm2.jpg" alt="Image">
-												<a class="readmore" href="#"><i class="flaticon-square57"></i></a>
-											</div>
-											<div class="css-team-info">
-											<h3 class="css-team-heading">Xavier Sevilla<br> <small>Ing. Sistemas Computacionales</small></h3>
-											</div>
-										</figure>
-									</div><!-- /.col-md-4 -->
-									<div class="col-md-4 col-sm-4 col-xs-12">
-										<figure>
-											<div class="css-team-avatar">
-												<div class="css-overlay"></div>
-												<img class="media-object img-responsive" src="estilos/img/team/tm3.jpg" alt="Image">
-												<a class="readmore" href="#"><i class="flaticon-square57"></i></a>
-											</div>
-											<div class="css-team-info">
-											<h3 class="css-team-heading">Oscar Troya<br> <small>Ing. Sistemas e Informatica</small></h3>
-											</div>
-										</figure>
-									</div><!-- /.col-md-4 -->
-									<div class="col-md-4 col-sm-4 col-xs-12">
-										<figure>
-											<div class="css-team-avatar">
-												<div class="css-overlay"></div>
-												<img class="media-object img-responsive" src="estilos/img/team/tm4.jpg" alt="Image">
-												<a class="readmore" href="#"><i class="flaticon-square57"></i></a>
-											</div>
-											<div class="css-team-info">
-											<h3 class="css-team-heading">Ondina Pascal<br> <small>Ing. Marcadotecnia</small></h3>
-											</div>
-										</figure>
-									</div><!-- /.col-md-4 -->
-									<div class="col-md-4 col-sm-4 col-xs-12">
-										<figure>
-											<div class="css-team-avatar">
-												<div class="css-overlay"></div>
-												<img class="media-object img-responsive" src="estilos/img/team/tm5.jpg" alt="Image">
-												<a class="readmore" href="#"><i class="flaticon-square57"></i></a>
-											</div>
-											<div class="css-team-info">
-											<h3 class="css-team-heading">Gabriela Villota<br> <small>Tec. Diseño Grafico</small></h3>
-											</div>
-										</figure>
-									</div><!-- /.col-md-4 -->
-									<div class="col-md-4 col-sm-4 col-xs-12">
-										<figure>
-											<div class="css-team-avatar">
-												<div class="css-overlay"></div>
-												<img class="media-object img-responsive" src="estilos/img/team/tm6.jpg" alt="Image">
-												<a class="readmore" href="#"><i class="flaticon-square57"></i></a>
-											</div>
-											<div class="css-team-info">
-											<h3 class="css-team-heading">Franco Pozo<br> <small>Ing. Sistemas</small></h3>
-											</div>
-										</figure>
-									</div><!-- /.col-md-4 -->
-									<div class="col-md-4 col-sm-4 col-xs-12">
-										<figure>
-											<div class="css-team-avatar">
-												<div class="css-overlay"></div>
-												<img class="media-object img-responsive" src="estilos/img/team/tm7.jpg" alt="Image">
-												<a class="readmore" href="#"><i class="flaticon-square57"></i></a>
-											</div>
-											<div class="css-team-info">
-												<h3 class="css-team-heading">Mat <br> <small>Ing. Sistemas</small></h3>
-											</div>
-										</figure>
-									</div><!-- /.col-md-4 -->
-									<div class="col-md-4 col-sm-4 col-xs-12">
-										<figure>
-											<div class="css-team-avatar">
-												<div class="css-overlay"></div>
-												<img class="media-object img-responsive" src="estilos/img/team/tm8.jpg" alt="Image">
-												<a class="readmore" href="#"><i class="flaticon-square57"></i></a>
-											</div>
-											<div class="css-team-info">
-												<h3 class="css-team-heading">Bryan Moreno<br> <small>Ing. Comunicador Social</small></h3>
-											</div>
-										</figure>
-									</div><!-- /.col-md-4 -->
-									<div class="col-md-4 col-sm-4 col-xs-12">
-										<figure>
-											<div class="css-team-avatar">
-												<div class="css-overlay"></div>
-												<img class="media-object img-responsive" src="estilos/img/team/tm9.jpg" alt="Image">
-												<a class="readmore" href="#"><i class="flaticon-square57"></i></a>
-											</div>
-											<div class="css-team-info">
-												<h3 class="css-team-heading">Daniel Vinueza<br> <small>Desarrollador Web</small></h3>
-											</div>
-										</figure>
-									</div><!-- /.col-md-4 -->
-								</div><!-- /.row -->
-							</div><!-- /.css-team -->
+							{{--<h2 class="section-title">Nuestro Equipo</h2>--}}
+							{{--<div class="css-team">--}}
+								{{--<div class="row">--}}
+									{{--<div class="col-md-4 col-sm-4 col-xs-12">--}}
+										{{--<figure>--}}
+											{{--<div class="css-team-avatar">--}}
+												{{--<div class="css-overlay"></div>--}}
+												{{--<img class="media-object img-responsive" src="estilos/img/team/tm1.jpg" alt="Image">--}}
+												{{--<a class="readmore" href="#"><i class="flaticon-square57"></i></a>--}}
+											{{--</div>--}}
+											{{--<div class="css-team-info">--}}
+											{{--<h3 class="css-team-heading">Washington Figueroa<br> <small>Ing. Sistemas Computacionales</small></h3>--}}
+											{{--</div>--}}
+										{{--</figure>--}}
+									{{--</div><!-- /.col-md-4 -->--}}
+									{{--<div class="col-md-4 col-sm-4 col-xs-12">--}}
+										{{--<figure>--}}
+											{{--<div class="css-team-avatar">--}}
+												{{--<div class="css-overlay"></div>--}}
+												{{--<img class="media-object img-responsive" src="estilos/img/team/tm2.jpg" alt="Image">--}}
+												{{--<a class="readmore" href="#"><i class="flaticon-square57"></i></a>--}}
+											{{--</div>--}}
+											{{--<div class="css-team-info">--}}
+											{{--<h3 class="css-team-heading">Xavier Sevilla<br> <small>Ing. Sistemas Computacionales</small></h3>--}}
+											{{--</div>--}}
+										{{--</figure>--}}
+									{{--</div><!-- /.col-md-4 -->--}}
+									{{--<div class="col-md-4 col-sm-4 col-xs-12">--}}
+										{{--<figure>--}}
+											{{--<div class="css-team-avatar">--}}
+												{{--<div class="css-overlay"></div>--}}
+												{{--<img class="media-object img-responsive" src="estilos/img/team/tm3.jpg" alt="Image">--}}
+												{{--<a class="readmore" href="#"><i class="flaticon-square57"></i></a>--}}
+											{{--</div>--}}
+											{{--<div class="css-team-info">--}}
+											{{--<h3 class="css-team-heading">Oscar Troya<br> <small>Ing. Sistemas e Informatica</small></h3>--}}
+											{{--</div>--}}
+										{{--</figure>--}}
+									{{--</div><!-- /.col-md-4 -->--}}
+									{{--<div class="col-md-4 col-sm-4 col-xs-12">--}}
+										{{--<figure>--}}
+											{{--<div class="css-team-avatar">--}}
+												{{--<div class="css-overlay"></div>--}}
+												{{--<img class="media-object img-responsive" src="estilos/img/team/tm4.jpg" alt="Image">--}}
+												{{--<a class="readmore" href="#"><i class="flaticon-square57"></i></a>--}}
+											{{--</div>--}}
+											{{--<div class="css-team-info">--}}
+											{{--<h3 class="css-team-heading">Ondina Pascal<br> <small>Ing. Marcadotecnia</small></h3>--}}
+											{{--</div>--}}
+										{{--</figure>--}}
+									{{--</div><!-- /.col-md-4 -->--}}
+									{{--<div class="col-md-4 col-sm-4 col-xs-12">--}}
+										{{--<figure>--}}
+											{{--<div class="css-team-avatar">--}}
+												{{--<div class="css-overlay"></div>--}}
+												{{--<img class="media-object img-responsive" src="estilos/img/team/tm5.jpg" alt="Image">--}}
+												{{--<a class="readmore" href="#"><i class="flaticon-square57"></i></a>--}}
+											{{--</div>--}}
+											{{--<div class="css-team-info">--}}
+											{{--<h3 class="css-team-heading">Gabriela Villota<br> <small>Tec. Diseño Grafico</small></h3>--}}
+											{{--</div>--}}
+										{{--</figure>--}}
+									{{--</div><!-- /.col-md-4 -->--}}
+									{{--<div class="col-md-4 col-sm-4 col-xs-12">--}}
+										{{--<figure>--}}
+											{{--<div class="css-team-avatar">--}}
+												{{--<div class="css-overlay"></div>--}}
+												{{--<img class="media-object img-responsive" src="estilos/img/team/tm6.jpg" alt="Image">--}}
+												{{--<a class="readmore" href="#"><i class="flaticon-square57"></i></a>--}}
+											{{--</div>--}}
+											{{--<div class="css-team-info">--}}
+											{{--<h3 class="css-team-heading">Franco Pozo<br> <small>Ing. Sistemas</small></h3>--}}
+											{{--</div>--}}
+										{{--</figure>--}}
+									{{--</div><!-- /.col-md-4 -->--}}
+									{{--<div class="col-md-4 col-sm-4 col-xs-12">--}}
+										{{--<figure>--}}
+											{{--<div class="css-team-avatar">--}}
+												{{--<div class="css-overlay"></div>--}}
+												{{--<img class="media-object img-responsive" src="estilos/img/team/tm7.jpg" alt="Image">--}}
+												{{--<a class="readmore" href="#"><i class="flaticon-square57"></i></a>--}}
+											{{--</div>--}}
+											{{--<div class="css-team-info">--}}
+												{{--<h3 class="css-team-heading">Mat <br> <small>Ing. Sistemas</small></h3>--}}
+											{{--</div>--}}
+										{{--</figure>--}}
+									{{--</div><!-- /.col-md-4 -->--}}
+									{{--<div class="col-md-4 col-sm-4 col-xs-12">--}}
+										{{--<figure>--}}
+											{{--<div class="css-team-avatar">--}}
+												{{--<div class="css-overlay"></div>--}}
+												{{--<img class="media-object img-responsive" src="estilos/img/team/tm8.jpg" alt="Image">--}}
+												{{--<a class="readmore" href="#"><i class="flaticon-square57"></i></a>--}}
+											{{--</div>--}}
+											{{--<div class="css-team-info">--}}
+												{{--<h3 class="css-team-heading">Bryan Moreno<br> <small>Ing. Comunicador Social</small></h3>--}}
+											{{--</div>--}}
+										{{--</figure>--}}
+									{{--</div><!-- /.col-md-4 -->--}}
+									{{--<div class="col-md-4 col-sm-4 col-xs-12">--}}
+										{{--<figure>--}}
+											{{--<div class="css-team-avatar">--}}
+												{{--<div class="css-overlay"></div>--}}
+												{{--<img class="media-object img-responsive" src="estilos/img/team/tm9.jpg" alt="Image">--}}
+												{{--<a class="readmore" href="#"><i class="flaticon-square57"></i></a>--}}
+											{{--</div>--}}
+											{{--<div class="css-team-info">--}}
+												{{--<h3 class="css-team-heading">Daniel Vinueza<br> <small>Desarrollador Web</small></h3>--}}
+											{{--</div>--}}
+										{{--</figure>--}}
+									{{--</div><!-- /.col-md-4 -->--}}
+								{{--</div>--}}
+							{{--</div>--}}
 
-							<h2 class="section-title">Unete a nuestro equipo</h2>
-							<div class="row">
-								<div class="col-sm-8">
-									<p>Trabaja en DTMowed <br> Ingeniero en Sistemas PERFIL REQUERIDO: 
-									<br> Género: Indistinto Formación Académica: Titulado En Ingeniería En Sistemas, 
-									Computación Y Afines Experiencia 1 año en adelante , manejando varias áreas o 
-									funcionalidades del área de TI. </p>
-								</div>
-								<div class="col-sm-4">
-									
-									<ul class="joblist-link">
-										<li>Ingeniero de software</li>
-										<li>Desarrollador web</li>
-										<li>Diseño Grafico</li>
-									</ul>
+							{{--<h2 class="section-title">Unete a nuestro equipo</h2>--}}
+							{{--<div class="row">--}}
+								{{--<div class="col-sm-8">--}}
+									{{--<p>Trabaja en DTMowed <br> Ingeniero en Sistemas PERFIL REQUERIDO: --}}
+									{{--<br> Género: Indistinto Formación Académica: Titulado En Ingeniería En Sistemas, --}}
+									{{--Computación Y Afines Experiencia 1 año en adelante , manejando varias áreas o --}}
+									{{--funcionalidades del área de TI. </p>--}}
+								{{--</div>--}}
+								{{--<div class="col-sm-4">--}}
+									{{----}}
+									{{--<ul class="joblist-link">--}}
+										{{--<li>Ingeniero de software</li>--}}
+										{{--<li>Desarrollador web</li>--}}
+										{{--<li>Diseño Grafico</li>--}}
+									{{--</ul>--}}
 
-									<a class="btn btn-primary joblist-btn" href="contact">Contactanos  <i style="" class="fa fa-angle-right "></i> </a>
+									{{--<a class="btn btn-primary joblist-btn" href="contact">Contactanos  <i style="" class="fa fa-angle-right "></i> </a>--}}
 
-								</div>
-							</div> <br>
+								{{--</div>--}}
+							{{--</div> <br>--}}
 							<h2 class="section-title">Nuestra Metodología: ICONIX</h2>
 							<div class="row">
 								<div class="col-md-12">
@@ -302,15 +301,15 @@
 							</div>
 						</section>
 
-						<section class="download-box-wrapper">
-							<div class="download-box">
-								<ul align= "center" class="list-inline">
-									<li><a target="_blank" href="ds">DESARROLLO DE SOFTWARE <span> Visitar </span></a></li>
-									<!--<li><a target="_blank" href="mercadotecnia">MERCADOTECNIA <span> Visitar </span></a></li>-->
-									<li><a target="_blank" href="capacitacion">CAPACITACIONES <span> Visitar </span></a></li>
-								</ul>
-							</div>
-						</section>
+						{{--<section class="download-box-wrapper">--}}
+							{{--<div class="download-box">--}}
+								{{--<ul align= "center" class="list-inline">--}}
+									{{--<li><a target="_blank" href="ds">DESARROLLO DE SOFTWARE <span> Visitar </span></a></li>--}}
+									{{--<!--<li><a target="_blank" href="mercadotecnia">MERCADOTECNIA <span> Visitar </span></a></li>-->--}}
+									{{--<li><a target="_blank" href="capacitacion">CAPACITACIONES <span> Visitar </span></a></li>--}}
+								{{--</ul>--}}
+							{{--</div>--}}
+						{{--</section>--}}
 					</div><!-- /.content-wrapper -->
 				</div><!-- /.container -->
 				@include ('component.footer')

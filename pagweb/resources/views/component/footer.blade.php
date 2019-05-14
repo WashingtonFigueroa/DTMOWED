@@ -20,20 +20,22 @@
                                 <div class="footer-widget">
                                     <h3 class="wow fadeInDown">Demos</h3>
                                     <ul class="wow fadeInDown">
-                                        <li><a href="http://demo.coatlfact.com" target="_blanck">COATL FACT Facturacion Electronica</a></li>
-                                        <li><a href="http://restaurant.coatlfact.com/" target="_blanck">COATL FOOD Facturacion Electronica</a></li>
-                                        <li><a href="http://jaap.dte-ecuador.org/" target="_blanck">GRIF TEACH Administración JAAP</a></li>
-                                </div><!-- /.footer-widget -->
-                            </div><!-- /.col-md-2 -->
+                                        <li><a href="https://www.fitness.dtmowed.org" target="_blanck">FITNESS Sistema Gym</a></li>
+                                        <li><a href="https://www.sisevents.dtmowed.org" target="_blanck">SIS EVENTS Gestión Eventos</a></li>
+                                        <li><a href="https://www.srh.dtmowed.org" target="_blanck">SRH Registro Personal</a></li>
+                                    </ul>
+                                </div>
+                            </div>
                             <div class="col-md-3 col-sm-4 col-xs-4">
                                 <div class="footer-widget">
                                     <h3 class="wow fadeInDown"> </br> </h3>
                                     <ul class="wow fadeInDown">
                                         <li><a href="http://filetracking.dte-ecuador.org" target="_blanck">FILE TRACKING Digitalización de Archivos </a></li>
-                                        <li><a href="http://rueda.francomamani.com/#/auth" target="_blanck">RUEDA DE NEGOCIOS</a></li>
-                                        <li><a href="https://play.google.com/store/apps/details?id=com.codasrl.quibus" target="_blanck">QUIBUS Presenta Eventos en Tiempo Real</a></li>
-                                </div><!-- /.footer-widget -->
-                            </div><!-- /.col-md-2 -->
+                                        {{--<li><a href="http://rueda.francomamani.com/#/auth" target="_blanck">RUEDA DE NEGOCIOS</a></li>--}}
+                                        <li><a href="http://demo.coatlfact.com" target="_blanck">COATL FACT Facturacion Electronica</a></li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div><!-- /.row -->
                     </div><!-- /.container -->
                 </section>
@@ -44,7 +46,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="copyright wow fadeInDown">
-                                    <p>Copyright ©2019 DTE All Rights Reserved. Designed by <a href="http://dtmowed.org/">dtmowed.org</a> </p>
+                                    <p>Copyright ©2019 DTE All Rights Reserved. Designed by <a href="https://www.dtmowed.org">DT MOWED</a> </p>
                                 </div><!-- /.copyright -->
                             </div><!-- /.col-md-12 -->
                         </div><!-- /.row -->
