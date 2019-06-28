@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28df6d0f-bfd2-4b68-87fb-df3dc143cdd4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pagweb/app/Http/Controllers/comentarioController.php" beforeDir="false" afterPath="$PROJECT_DIR$/pagweb/app/Http/Controllers/comentarioController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagweb/app/Http/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/pagweb/app/Http/routes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/email-templates/simple.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/intro-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pagweb/public/estilos/img/intro-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/partner/partner-logo-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/partner/partner-logo-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/partner/partner-logo-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/partner/partner-logo-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/partner/partner-logo-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/partner/partner-logo-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/partner/partner-logo-7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/partner/partner-logo-8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/partner/partner-logo-9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/slider-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pagweb/public/estilos/img/slider-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/img/support-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pagweb/public/estilos/img/support-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagweb/public/estilos/sendemail.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagweb/public/mailoutput/mail-20190513-2036-576000.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagweb/resources/views/about-us.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/pagweb/resources/views/about-us.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagweb/resources/views/component/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/pagweb/resources/views/component/footer.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pagweb/resources/views/contact.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/pagweb/resources/views/contact.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagweb/resources/views/ds.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/pagweb/resources/views/ds.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagweb/resources/views/email.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/pagweb/resources/views/email.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagweb/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/pagweb/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +17,7 @@
     <session id="-2063102992">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="2" />
@@ -51,13 +29,13 @@
           <entry key="env" value="2" />
           <entry key="example" value="1" />
           <entry key="md" value="1" />
-          <entry key="php" value="14" />
+          <entry key="php" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key=".env file" value="2" />
-          <entry key="Blade" value="10" />
+          <entry key="Blade" value="13" />
           <entry key="CSS" value="2" />
           <entry key="Markdown" value="1" />
           <entry key="PHP" value="4" />
@@ -68,13 +46,13 @@
         <counts>
           <entry key="css" value="6" />
           <entry key="env" value="24" />
-          <entry key="php" value="192" />
+          <entry key="php" value="245" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key=".env file" value="24" />
-          <entry key="Blade" value="176" />
+          <entry key="Blade" value="229" />
           <entry key="CSS" value="6" />
           <entry key="PHP" value="16" />
         </counts>
@@ -82,56 +60,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pagweb/resources/views/contact.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="122" column="65" lean-forward="true" selection-start-line="122" selection-start-column="65" selection-end-line="122" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pagweb/.env">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pagweb/app/Http/routes.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="59" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pagweb/app/Http/Controllers/comentarioController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-              <folding>
-                <element signature="e#40#68#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pagweb/resources/views/email.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -154,12 +83,12 @@
         <option value="$PROJECT_DIR$/pagweb/public/estilos/css/style.css" />
         <option value="$PROJECT_DIR$/pagweb/resources/views/about-us.blade.php" />
         <option value="$PROJECT_DIR$/pagweb/resources/views/ds.blade.php" />
-        <option value="$PROJECT_DIR$/pagweb/.env" />
         <option value="$PROJECT_DIR$/pagweb/public/estilos/sendemail.php" />
         <option value="$PROJECT_DIR$/pagweb/app/Http/routes.php" />
-        <option value="$PROJECT_DIR$/pagweb/resources/views/contact.blade.php" />
         <option value="$PROJECT_DIR$/pagweb/resources/views/email.blade.php" />
         <option value="$PROJECT_DIR$/pagweb/app/Http/Controllers/comentarioController.php" />
+        <option value="$PROJECT_DIR$/pagweb/.env" />
+        <option value="$PROJECT_DIR$/pagweb/resources/views/contact.blade.php" />
       </list>
     </option>
   </component>
@@ -236,7 +165,7 @@
       <path value="$PROJECT_DIR$/pagweb/vendor/psy/psysh" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="593" />
     <option name="y" value="129" />
     <option name="width" value="697" />
@@ -263,19 +192,6 @@
               <item name="DTMOWED" type="b2602c69:ProjectViewProjectNode" />
               <item name="DTMOWED" type="462c0819:PsiDirectoryNode" />
               <item name="pagweb" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DTMOWED" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DTMOWED" type="462c0819:PsiDirectoryNode" />
-              <item name="pagweb" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="estilos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DTMOWED" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DTMOWED" type="462c0819:PsiDirectoryNode" />
-              <item name="pagweb" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -295,7 +211,7 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="comentarioController&#9;FILE&#9;file://C:/wamp64/www/DTMOWED/DTMOWED/pagweb/app/Http/Controllers/comentarioController.php" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tesis-lachoza" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -322,18 +238,17 @@
       <option name="presentableId" value="Default" />
       <updated>1557793088280</updated>
       <workItem from="1557793089844" duration="10247000" />
-      <workItem from="1557841880756" duration="2818000" />
+      <workItem from="1557841880756" duration="6593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13065000" />
+    <option name="totallyTimeSpent" value="16840000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15431164" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23676248" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -366,11 +281,6 @@
         <state relative-caret-position="108">
           <caret line="6" column="17" lean-forward="true" selection-end-line="26" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pagweb/resources/views/component/head.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-249" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pagweb/resources/views/component/header.blade.php">
@@ -419,13 +329,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pagweb/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="512" column="40" selection-start-line="512" selection-start-column="40" selection-end-line="512" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pagweb/vendor/laravel/framework/src/Illuminate/Queue/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -446,27 +349,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pagweb/app/Http/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="59" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pagweb/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pagweb/resources/views/contact.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="122" column="65" lean-forward="true" selection-start-line="122" selection-start-column="65" selection-end-line="122" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pagweb/resources/views/email.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -474,13 +356,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pagweb/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pagweb/app/Http/Controllers/comentarioController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="306">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
           <folding>
             <element signature="e#40#68#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagweb/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagweb/resources/views/contact.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="118" column="12" lean-forward="true" selection-start-line="118" selection-start-column="12" selection-end-line="118" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagweb/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagweb/resources/views/component/head.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
         </state>
       </provider>
     </entry>

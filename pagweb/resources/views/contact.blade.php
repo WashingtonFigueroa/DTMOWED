@@ -122,22 +122,19 @@
 									{{ csrf_field() }}
 									<div class="row gtr-uniform">
 										<div class="col-6 col-12-xsmall">
-											<input type="text" name="name" value="" placeholder="Nombre y Apellido" />
+											<input class="form-control" type="text" name="name" value="" placeholder="Nombre y Apellido" />
 										</div>
 										<div class="col-6 col-12-xsmall">
-											<input type="email" name="email" value="" placeholder="Email" />
+											<input class="form-control" type="email" name="email" value="" placeholder="Email" />
 										</div>
 										<div class="col-12">
-											<textarea name="mensajee"  placeholder="Escribe aquí tu historía o comentario..." rows="6"></textarea>
+											<textarea class="form-control" name="mensajee"  placeholder="Mensaje..." rows="6"></textarea>
 										</div>
 										<!-- Break -->
-										<div class="col-12">
-											<ul class="actions">
-												<li><input type="submit" value="Enviar Mensaje" class="primary" /></li>
-												<li><input type="reset" value="Limpiar" /></li>
-											</ul>
-										</div>
+
 									</div>
+									<br>
+											<input class="btn-primary btn-lg"  type="submit" value="Enviar Mensaje" class="primary" />
 								</form>
 							</div>
 						</div><!-- /.content-wrapper -->
